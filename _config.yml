@@ -1,0 +1,25 @@
+title: I-140 Petitions Examples
+description: I-140 Petitions Examples.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://andreychemist.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: andreychemist
+
+exclude: [README.md, LICENSE]
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+
+# Main menu
+navigation:
+- text: Examples
+  url: /
+- text: My Story
+  url: /story/
+- text: FAQ
+  url: /faq/
+- text: My Story (Rus)
+  url: /story-rus/
+- text: FAQ (Rus)
+  url: /faq-rus/
