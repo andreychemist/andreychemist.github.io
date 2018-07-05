@@ -18,11 +18,11 @@ The USCIS websites for Forms:
 - <https://www.uscis.gov/i-907> (request for premium processing service)
 - <https://www.uscis.gov/i-485> (application to adjust status)
 
-USCIS instructions for EB1: <https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1>.
+[USCIS instructions for EB1](https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1).
 
-Request for Evidence (RFE) Template that explains EB1-A criteria in detail: <https://www.uscis.gov/sites/default/files/USCIS/Outreach/Draft%20Request%20for%20Evidence%20%28RFE%29%20Template%20for%20Comment/E11_RFE_Template_1-10-11.pdf>
+[Request for Evidence (RFE) Template](https://www.uscis.gov/sites/default/files/USCIS/Outreach/Draft%20Request%20for%20Evidence%20%28RFE%29%20Template%20for%20Comment/E11_RFE_Template_1-10-11.pdf) that explains EB1-A criteria in detail.
 
-USCIS instructions for EB2: <https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-second-preference-eb-2>.
+[USCIS instructions for EB2](https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-second-preference-eb-2).
 
 The latest national interest waiver (NIW) criteria can be found in the Interim Decision #3882 *Matter of Dhanasar, Petitioner* 26 I&N Dec. 884 (AAO 2016): <https://www.justice.gov/eoir/page/file/920996/download>.
 
