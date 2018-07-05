@@ -28,13 +28,11 @@ The latest national interest waiver (NIW) criteria can be found in the Interim D
 
 The most relevant underlying laws and regulations:
 The Immigration and Nationality Act
-Section 203(b) [8 U.S.C. 1153] - Allocation of Immigrant Visas: <https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-29/0-0-0-1083.html#0-0-0-182>
-EB1-A - 203(b)(1)(A); EB2 - 203(b)(2); NIW - 203(b)(2)(B)
+[Section 203(b) [8 U.S.C. 1153] - Allocation of Immigrant Visas](https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-29/0-0-0-1083.html#0-0-0-182): EB1-A - 203(b)(1)(A); EB2 - 203(b)(2); NIW - 203(b)(2)(B).
 
-Section 245 [8 U.S.C. 1255] - Adjustment of Status: <https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-29/0-0-0-7418.html#0-0-0-274>
+[Section 245 [8 U.S.C. 1255] - Adjustment of Status](https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-29/0-0-0-7418.html#0-0-0-274).
 
-Title 8, Code of Federal Regulations, Section 204.5 “Petitions for employment-based immigrants”: <https://www.ecfr.gov/cgi-bin/text-idx?SID=af85d4ae7f5a9dfe0c3febad7ee131cf&mc=true&node=pt8.1.204&rgn=div5#se8.1.204_15>
-EB1-A - 204.5(h); EB2 - 204.5(k)
+[Title 8, Code of Federal Regulations, Section 204.5 “Petitions for employment-based immigrants”](https://www.ecfr.gov/cgi-bin/text-idx?SID=af85d4ae7f5a9dfe0c3febad7ee131cf&mc=true&node=pt8.1.204&rgn=div5#se8.1.204_15): EB1-A - 204.5(h); EB2 - 204.5(k).
 
 
 
@@ -111,7 +109,7 @@ I consider it especially risky to file the I-485 form being in the US in the B1/
 
 # When can form I-485 be filed?
 
-I have already explained why I consider it a good idea to file the I-485 application to adjust the status only after the I-140 form is approved. However, there may be other obstacles for filing I-485. First of all, one should check the Visa Bulletin published by the Department of State: <https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html>
+I have already explained why I consider it a good idea to file the I-485 application to adjust the status only after the I-140 form is approved. However, there may be other obstacles for filing I-485. First of all, one should check the Visa Bulletin published by the Department of State: <https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html>.
 
 The status for filing of the employment-based visa applications must be current “C” for your specific category. The EB1-A category (1st priority) is usually always current, and the EB2-NIW (2nd priority) has been non-current for all countries several times during the past several years. The bulletin also discriminates against the people born in such as China and India where too many immigrant have come from. The nationals of those countries have very long waiting times with getting the green card under the EB2 categories and may consider filing the I-140 petition under the EB-1A category.
 
@@ -132,6 +130,7 @@ The processing times have increased significantly since then, and in 2018, peopl
 After waiting longer than the official USCIS processing times, it may be a good idea to schedule an appointment in the USCIS office to discuss your case (<https://my.uscis.gov/appointment>) and I know that some people even wrote to Congressmen for assistance. But you never can be sure if it accelerates the USCIS decision.
 
 # Can you estimate my chances?
+
 I’m not a lawyer and by law I am not allowed to provide advice on the specific cases, write petitions or prepare the documents for other people. I’m always happy to discuss the US immigration laws in general or answer the questions about my story and petition. I wrote my opinion about employment-based categories and criteria based on my own experience and experience of my friends with whom I talked about immigration issues.
 
 Generally, I consider that a scientist with a PhD degree and more than 50 citations working in the US has very good chances for the EB2-NIW approval. The EB1-A category requires the “third criterion”: several reviews of manuscripts for journals, major awards, or publications about the person’s achievements in the major professional media.
@@ -196,7 +195,7 @@ Neither my brother, nor I received the RFE for our petition. So I don’t have t
 
 Some people got an approval after a successful reply to the RFE, some got a denial notice. These are not my stories, so I usually don’t know the details besides the final outcome. There are several options what to do next in case of the denial. The appeal process to the Administrative Appeals Office (AAO) requires either a good lawyer or a strong commitment to studying the immigration law and cases. One may submit a new petition under the different category or under the same category with the new facts and achievements and hope that it will get on the desk of a nicer officer this time.
 
-Reading relevant decisions by the AAO may provide a glimpse of understanding of the USCIS’s decision making: <https://www.uscis.gov/about-us/directorates-and-program-offices/administrative-appeals-office-aao/aao-non-precedent-decisions>. However, I warn you that it’s quite depressive reading, because most of appeals are dismissed. And these decisions are non-precedent. Their usefulness is extremely limited for the future cases.
+Reading relevant [decisions by the AAO](https://www.uscis.gov/about-us/directorates-and-program-offices/administrative-appeals-office-aao/aao-non-precedent-decisions) may provide a glimpse of understanding of the USCIS’s decision making. However, I warn you that it’s quite depressive reading, because most of appeals are dismissed. And these decisions are non-precedent. Their usefulness is extremely limited for the future cases.
 
 # Why did you create this website?
 

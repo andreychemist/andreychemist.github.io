@@ -28,13 +28,11 @@ permalink: faq-rus/
 
 Непосредственно законы, регулирующие иммиграцию по категориям EB1-A и EB2-NIW:
 The Immigration and Nationality Act
-Section 203(b) [8 U.S.C. 1153] - Allocation of Immigrant Visas: <https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-29/0-0-0-1083.html#0-0-0-182>
-EB1-A - 203(b)(1)(A); EB2 - 203(b)(2); NIW - 203(b)(2)(B)
+[Section 203(b) [8 U.S.C. 1153] - Allocation of Immigrant Visas](https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-29/0-0-0-1083.html#0-0-0-182): EB1-A - 203(b)(1)(A); EB2 - 203(b)(2); NIW - 203(b)(2)(B).
 
-Section 245 [8 U.S.C. 1255] - Adjustment of Status: <https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-29/0-0-0-7418.html#0-0-0-274>
+[Section 245 [8 U.S.C. 1255] - Adjustment of Status](https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-29/0-0-0-7418.html#0-0-0-274).
 
-Title 8, Code of Federal Regulations, Section 204.5 “Petitions for employment-based immigrants”: <https://www.ecfr.gov/cgi-bin/text-idx?SID=af85d4ae7f5a9dfe0c3febad7ee131cf&mc=true&node=pt8.1.204&rgn=div5#se8.1.204_15>
-EB1-A - 204.5(h); EB2 - 204.5(k)
+[Title 8, Code of Federal Regulations, Section 204.5 “Petitions for employment-based immigrants”](https://www.ecfr.gov/cgi-bin/text-idx?SID=af85d4ae7f5a9dfe0c3febad7ee131cf&mc=true&node=pt8.1.204&rgn=div5#se8.1.204_15): EB1-A - 204.5(h); EB2 - 204.5(k).
 
 # В чем разница между категориями EB-1A и EB2-NIW?
 
@@ -108,7 +106,7 @@ EB2-NIW считается более простой категорией. Я л
 
 # Когда можно подать форму I-485?
 
-Я уже объяснил, почему я считаю, что лучше подавать I-485 только после одобрения I-140. Но могут быть и другие препятствия к подаче I-485. Во-первых, нужно проверить Visa Bulletin, который публикует Department of State: <https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html>
+Я уже объяснил, почему я считаю, что лучше подавать I-485 только после одобрения I-140. Но могут быть и другие препятствия к подаче I-485. Во-первых, нужно проверить Visa Bulletin, который публикует Department of State: <https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html>.
 
 В их таблице статус для подачи I-485 по вашей категории должен быть “C” - current (текущий). Для категории EB1-A (1st priority) обычно так и есть, а вот EB2-NIW (2nd priority) за последние годы часто бывал non-current для некоторых или всех стран. Особенно дискриминируют людей, родившихся в Китае или Индии, откуда приехало слишком много иммигрантов. Очередь для граждан этих стран по категории EB2 настолько растянулась, что им имеет смысл идти по категории EB-1A.
 
@@ -195,7 +193,7 @@ The Request for [Additional] Evidence (RFE) (запрос дополнитель
 
 Некоторые люди смогли успешно ответить на RFE и получить одобрение, другие получили письмо с окончательным отказом. Так как все происходило не со мной, я обычно не знаю никаких подробностей, кроме финального результата. Существует несколько путей, которыми можно пойти после отказа. Подача апелляции в Administrative Appeals Office (AAO) - сложный путь. Тут нужно или нанимать хорошего адвоката, или быть готовым самому закопаться в изучение иммиграционных законов и прецедентов. Можно еще подать петицию по другой категории, или по той же категории, но с новыми фактами и достижениями, и надеяться, что на этот раз она попадет на стол к менее привередливому офицеру.
 
-Чтение решений AAO по чужим апелляциям может дать некоторое представление о том, на что смотрит USCIS, принимая решение по петициям: <https://www.uscis.gov/about-us/directorates-and-program-offices/administrative-appeals-office-aao/aao-non-precedent-decisions>. Но я хочу предупредить, что это весьма депрессивное чтение, так как большинство апелляций отклоняется. И эти решения не являются прецедентными. Использовать их для будущих случаев можно только крайне ограничено.
+Чтение [решений AAO](https://www.uscis.gov/about-us/directorates-and-program-offices/administrative-appeals-office-aao/aao-non-precedent-decisions) по чужим апелляциям может дать некоторое представление о том, на что смотрит USCIS, принимая решение по петициям. Но я хочу предупредить, что это весьма депрессивное чтение, так как большинство апелляций отклоняется. И эти решения не являются прецедентными. Использовать их для будущих случаев можно только крайне ограничено.
 
 # Почему ты создал этот сайт?
 
