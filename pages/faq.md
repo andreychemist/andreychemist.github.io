@@ -27,8 +27,7 @@ The USCIS websites for Forms:
 The latest national interest waiver (NIW) criteria can be found in the Interim Decision #3882 *Matter of Dhanasar, Petitioner* 26 I&N Dec. 884 (AAO 2016): <https://www.justice.gov/eoir/page/file/920996/download>.
 
 The most relevant underlying laws and regulations:
-The Immigration and Nationality Act
-[Section 203(b) [8 U.S.C. 1153] - Allocation of Immigrant Visas](https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-29/0-0-0-1083.html#0-0-0-182): EB1-A - 203(b)(1)(A); EB2 - 203(b)(2); NIW - 203(b)(2)(B).
+The Immigration and Nationality Act, [Section 203(b) [8 U.S.C. 1153] - Allocation of Immigrant Visas](https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-29/0-0-0-1083.html#0-0-0-182): EB1-A - 203(b)(1)(A); EB2 - 203(b)(2); NIW - 203(b)(2)(B).
 
 [Section 245 [8 U.S.C. 1255] - Adjustment of Status](https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-29/0-0-0-7418.html#0-0-0-274).
 
@@ -95,7 +94,7 @@ I’m even less sure about feasibility of filing the EB2-NIW petition outside th
 
 Filing from abroad has also technical problems with paying fees (according to the I-140 instructions, they must be paid either by the US bank check or money order) and longer times to get mail from the USCIS. One should consider hiring a US-based lawyer to handle these issues.
 
-The process of getting the green card after the approval of I-140 is also very different for the people who are already in the United States in the legal non-immigrant status (they file the Form I-485 to adjust their status) and for the people who reside abroad. They have to go through the process called “consulate processing” about which I know relatively little; their case will be transferred to the Department of State that will provide further instructions about filling forms, paying fees, taking the medical exam, and scheduling the interview in the US consulate abroad. First, they will be issued an immigrant visa to cross the US border and they will get the green card when they are already in the US.
+The process of getting the green card after the approval of I-140 is also very different for the people who are already in the United States in the legal non-immigrant status (they file the Form I-485 to adjust their status) and for the people who reside abroad. They have to go through the process called “consular processing” about which I know relatively little; their case will be transferred to the Department of State that will provide further instructions about filling forms, paying fees, taking the medical exam, and scheduling the interview in the US consulate abroad. First, they will be issued an immigrant visa to cross the US border and they will get the green card when they are already in the US.
 
 [The official statistics for the fiscal year 2016](https://www.dhs.gov/sites/default/files/publications/2016%20Yearbook%20of%20Immigration%20Statistics.pdf) (Table 7, p. 21) shows that for EB-1A category only 761 (14%) are new arrivals in the US and 4,769 persons (86%) were already in the US. For EB2, 877 (4%) are new arrivals and 18,702 (96%) were in the US.
 
@@ -116,6 +115,8 @@ The status for filing of the employment-based visa applications must be current 
 Filing dates may differ from the final action dates. The former determine when one can file the I-485 form, the latter determine when the I-485 form can be approved and the green card can be issued.
 
 I passed my medical examination after getting the approval for I-140 and before filing I-485. I filed the required medical form I-693 (<https://www.uscis.gov/i-693>) together with my I-485 application but the processing times have increased greatly since 2012. And now one may wait for longer than a year to get their I-485 approved. The I-693 form expires in one year, so the person would get an RFE to renew their medical exam. Nowadays, it may be wise not to attach I-693 to I-485 and wait for this RFE.
+
+See also: <https://www.uscis.gov/greencard/adjustment-of-status>.
 
 # What are the processing times for the forms I-140 and I-485?
 
