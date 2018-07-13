@@ -158,6 +158,8 @@ Examples of recommendation letters are included as exhibits in the end of petiti
 
 Many professors wrote letters completely themselves and sent me either paper or signed electronic copy. But since these letters are of a legal nature, some professors asked me to provide them with drafts that they could modify and sign if they would agree with everything written there.
 
+Don't forget to thank your recommenders when you have received your green card.
+
 # How did you translate your documents?
 
 For I-140, I had only one attachment that was not originally written in English (my undergraduate diploma) but I already had the certified translation that I ordered for the graduate school. Later I translated the birth certificate for the form I-485. There are many online translation services that specialize on the translation of documents for the USCIS and they know all requirement for the certification.
