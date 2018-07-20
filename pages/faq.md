@@ -216,6 +216,18 @@ I didn't have O-1 visa myself, I got my green card under the EB-1A category when
 
 I read stories that some person created a company in the US while on B1/B2 visa and then applied for O-1 visa using their own company as an employer. For me, this way looks risky, especially if the company is not a real business and is created just for getting O-1 visa. More importantly, I don't know anyone who got O-1 visa without a lawyer. And if you have a lawyer, you should ask him or her all questions you have about O-1 visa rather then read this FAQ.
 
+# How did you fill the Form I-907?
+
+You can submit the Form I-907, Request for Premium Processing Service, with the I-140 Petition under the EB-1A category, but not under the EB2-NIW category: <https://www.uscis.gov/forms/how-do-i-use-premium-processing-service>.
+
+First, make sure that you are filling [the most recent form](https://www.uscis.gov/system/files_force/files/form/i-907.pdf). An expiration date can be found in the top right corner on the first page. I filled my form in 2012, it was similar but not the same. The fee hasn't changed since that time and is still $1,225, but it may increase in the future.
+
+Second, most of fields in the form are obvious. In Part 1, item 8, I checked the box "I am the **petitioner** who is filing or has filed a petition eligible for Premium Processing Service", because I did everything without a lawyer. There is a subtle difference between the petitioner and the applicant (you can petition for someone else, but apply only for yourself). Since the I-140 form is called 'Petition', I chose "the petitioner".
+
+Part 2, item 1. I put "I-140". item 2: "N/A" since I filed I-907 together with I-140. item 3: "EB-1A". I filled both item 4 and item 5 with my name, because I was both the petitioner and the beneficiary.
+
+Lastly, I followed the [instructions for I-907](https://www.uscis.gov/system/files_force/files/form/i-907instr.pdf): "If a question does not apply to you (for example, if you have never been married and the question asks, “Provide the name of your current spouse”), type or print “N/A” unless otherwise directed. If your answer to a question which requires a numeric response is zero or none (for example, “How many children do you have” or “How many times have you departed the United States”), type or print “None” unless otherwise directed."
+
 # Why did you create this website?
 
 I learned a lot about employment-based immigration and it would be sad if no one would benefit from this knowledge after I received my green card. I shared my story in my Russian-language blog (<https://andresol.livejournal.com/>) and offered to send an example of my petition. During the next 5.5 years, I sent it to almost 250 people and more than 25 people wrote me back that they received the approval of their I-140 petition and that my example encouraged and helped them to write their own petitions. I decided that it’s time to share my story and petition example not only with my friends but with everyone interested in self-petitioning under EB1-A or EB2-NIW categories.
