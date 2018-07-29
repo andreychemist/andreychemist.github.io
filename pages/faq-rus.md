@@ -18,6 +18,8 @@ permalink: faq-rus/
 - <https://www.uscis.gov/i-907> (запрос на ускоренное рассмотрение)
 - <https://www.uscis.gov/i-485> (заявление на смену статуса)
 
+[Советы от USCIS, как заполнять и отправлять форму I-140](https://www.uscis.gov/forms/petition-filing-and-processing-procedures-form-i-140-immigrant-petition-alien-worker).
+
 [Инструкции USCIS для категории EB1](https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1).
 
 [Темплат для написания RFE](https://www.uscis.gov/sites/default/files/USCIS/Outreach/Draft%20Request%20for%20Evidence%20%28RFE%29%20Template%20for%20Comment/E11_RFE_Template_1-10-11.pdf) (запроса дополнительных доказательств), который подробно объясняет критерии по EB1-A.
@@ -226,6 +228,15 @@ Part 2, item 1. Я написал "I-140". item 2: "N/A", потому что я
 
 Наконец, я следовал [инструкциям к I-907](https://www.uscis.gov/system/files_force/files/form/i-907instr.pdf): "If a question does not apply to you (for example, if you have never been married and the question asks, “Provide the name of your current spouse”), type or print “N/A” unless otherwise directed. If your answer to a question which requires a numeric response is zero or none (for example, “How many children do you have” or “How many times have you departed the United States”), type or print “None” unless otherwise directed."
 "Если вопрос к вам не относится (например, если вы никогда не были женаты, а вопрос спрашивает имя супруга, напишите "N/A", если не даны другие инструкции. Если ваш ответ на вопрос требует численного ответа "ноль" (например, "Сколько у вас детей" или "Сколько раз вы покидали США") напишите "None", если не даны другие инструкции".
+
+# Могут ли новые статьи, которые будут опубликованы после подачи петиции, быть поданы в качестве дополнительных доказательств?
+
+Нет. Этот случай регулируется [8 C.P.R. § 103.2(b)(1), (12)](https://www.ecfr.gov/cgi-bin/text-idx?SID=6d374ff1f838ff282499edfcc34630e5&mc=true&node=se8.1.103_12&rgn=div8). Цитирую: "(12) Effect where evidence submitted in response to a request does not establish eligibility at the time of filing. A benefit request shall be denied where evidence submitted in response to a request for evidence does not establish filing eligibility at the time the benefit request was filed. A benefit request shall be denied where any benefit request upon which it was based was filed subsequently."
+("(12) Эффект того, что доказательство, поданное в ответ за запрос, не устанавливает соответствие требованиям на момент подачи. По запросу должно быть отказано, если доказательство, поданное в ответ на запрос, не устанавливает соответствие требованиям на тот момент, когда запрос был подан. По запросу должно быть отказано, если любой другой запрос, на котором запрос основан, был подан после первоначального запроса").
+
+В моем переводе звучит запутано, но для многих слов мне сложно найти четкое соответствие в русском. Лично мне ясно, что все доказательства, подтверждающие петицию, должны уже существовать на момент первоначальной подачи петиции. Я читал [апелляционные решения](https://www.uscis.gov/sites/default/files/err/B2%20-%20Aliens%20with%20Extraordinary%20Ability/Decisions_Issued_in_2015/JAN122015_02B2203.pdf), которые четко указывали, что никакие будущие достижения считаться не будут. Человек, на которого подается петиция, должен отвечать всем требованиям закона на момент первоначальной подачи формы I-140. Поэтому, если кто-то собирается в ближайшем будущем опубликовать новые статьи или получить награды, то будет разумным повременить с подачей петиции, а не надеяться, что можно будет дослать новые доказательства в ответ на запрос RFE.
+
+Насколько я понимаю, по EB-1A можно заявлять новые критерии после подачи I-140, но только в том случае, если все доказательства для этих критериев уже существовали на момент первоначальной подачи.
 
 # Почему ты создал этот сайт?
 

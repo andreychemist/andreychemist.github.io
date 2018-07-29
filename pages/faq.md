@@ -18,6 +18,8 @@ The USCIS websites for Forms:
 - <https://www.uscis.gov/i-907> (request for premium processing service)
 - <https://www.uscis.gov/i-485> (application to adjust status)
 
+[USCIS tips for filling and filing the form I-140](https://www.uscis.gov/forms/petition-filing-and-processing-procedures-form-i-140-immigrant-petition-alien-worker).
+
 [USCIS instructions for EB1](https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1).
 
 [Request for Evidence (RFE) Template](https://www.uscis.gov/sites/default/files/USCIS/Outreach/Draft%20Request%20for%20Evidence%20%28RFE%29%20Template%20for%20Comment/E11_RFE_Template_1-10-11.pdf) that explains EB1-A criteria in detail.
@@ -227,6 +229,14 @@ Second, most of fields in the form are obvious. In Part 1, item 8, I checked the
 Part 2, item 1. I put "I-140". item 2: "N/A" since I filed I-907 together with I-140. item 3: "EB-1A". I filled both item 4 and item 5 with my name, because I was both the petitioner and the beneficiary.
 
 Lastly, I followed the [instructions for I-907](https://www.uscis.gov/system/files_force/files/form/i-907instr.pdf): "If a question does not apply to you (for example, if you have never been married and the question asks, “Provide the name of your current spouse”), type or print “N/A” unless otherwise directed. If your answer to a question which requires a numeric response is zero or none (for example, “How many children do you have” or “How many times have you departed the United States”), type or print “None” unless otherwise directed."
+
+# Can new papers that will have been published after the filing of the petition be submitted as additional evidence?
+
+No. This case is regulated by [8 C.P.R. § 103.2(b)(1), (12)](https://www.ecfr.gov/cgi-bin/text-idx?SID=6d374ff1f838ff282499edfcc34630e5&mc=true&node=se8.1.103_12&rgn=div8). Citing it: "(12) Effect where evidence submitted in response to a request does not establish eligibility at the time of filing. A benefit request shall be denied where evidence submitted in response to a request for evidence does not establish filing eligibility at the time the benefit request was filed. A benefit request shall be denied where any benefit request upon which it was based was filed subsequently."
+
+For me, it's very clear that all evidence that is used to support the case must exist at the moment of the initial filing of the petition. I read the [appeal decisions](https://www.uscis.gov/sites/default/files/err/B2%20-%20Aliens%20with%20Extraordinary%20Ability/Decisions_Issued_in_2015/JAN122015_02B2203.pdf) that stated that any future achievement do not count. The beneficiary must be fully eligible for the benefit when the I-140 petition is submitted. So, if one expects to publish new papers or receive new awards in the nearest future, it might be wise to wait until all evidence for the petition actually exist, rather than to hope to submit it later in response to the RFE.
+
+As I also understand, it's possible to claim new criteria under the EB-1A classification after the initial filing of I-140, but all evidence for these newly claimed criteria had to exist on the moment of the initial filing.
 
 # Why did you create this website?
 
