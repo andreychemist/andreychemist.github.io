@@ -188,9 +188,11 @@ Recently (Apr 2018), the USCIS posted an announcement that “If you file one of
 
 But I don’t know yet if anyone could pay the fee using the foreign credit card. 
 
-# Is the Form ETA-750B required?
+# Is the Form ETA-750B or ETA Form 9089 required?
 
-This form is briefly mentioned in the instructions for I-140 and in 8 CFR, Section 204.5(k)(4)(ii). It was not clear for me if this form was required for the EB1-A petition. But I read in an online forum that someone filing the EB1-A petition received the RFE asking to provide this form ETA-750B. So I decided to attach it as well. The form can be found here: <https://www.foreignlaborcert.doleta.gov/pdf/eta750b1.pdf> 
+Form ETA-750B is briefly mentioned in the instructions for I-140 and in 8 CFR, Section 204.5(k)(4)(ii). It was not clear for me if this form was required for the EB1-A petition. But I read in an online forum that someone filing the EB1-A petition received the RFE asking to provide this form ETA-750B. So I decided to attach it as well.
+
+But it seems that [the latest edition of ETA-750B](https://www.foreignlaborcert.doleta.gov/pdf/eta750b1.pdf) expired in 2017. I read that the new requirement is to submit the much longer ETA Form 9089. I have no experience with this form and I couldn't find its latest version that had not expired.
 
 # What is the RFE?
 
