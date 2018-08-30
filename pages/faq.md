@@ -160,6 +160,8 @@ Examples of recommendation letters are included as exhibits in the end of petiti
 
 Many professors wrote letters completely themselves and sent me either paper or signed electronic copy. But since these letters are of a legal nature, some professors asked me to provide them with drafts that they could modify and sign if they would agree with everything written there.
 
+I didn't attach the CV's of professors who gave me recommendations. They wrote about their experience, credentials, and honors in the first paragraph of the letter. However, it won't hurt to attach CV's of referees.
+
 Don't forget to thank your recommenders when you have received your green card.
 
 # How did you translate your documents?
@@ -174,19 +176,23 @@ I read the stories that people who know English well made and certified their tr
 
 # Should the photocopies or originals of documents be sent?
 
-I sent only photocopies of all documents I attached. Even when I had originals. (But don’t forget to sign all forms!). The instructions for I-140 recommend: “You may submit legible photocopies of documents requested, unless the Instructions specifically state that you must submit an original document.” (<https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf>)
+I sent only photocopies of all supporting documents. Even when I had originals. The instructions for I-140 recommend: “You may submit legible photocopies of documents requested, unless the Instructions specifically state that you must submit an original document.” (<https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf>)
 
 There is a small chance that the USCIS will ask you to resubmit your evidence, so it’s important to keep originals of all sent documents.
 
+But I sent all forms with original signatures and, of course, originals of checks to pay the fees. I kept the photocopies of sent forms and checks.
+
 # How can the fee be paid?
 
-I paid it with my personal bank check from the US bank. I know that people who didn’t live in the US had problems with paying the fee because the instructions for the form I-140 specify: “The check or money order must be drawn on a bank or other financial institution located in the United States and must be payable in U.S. currency” (<https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf>). Some traveled to the US themselves or asked their friends traveling to the US to buy money orders there. Others had a family member living in the US who provided their bank check.
+I paid them with my personal bank checks from the US bank. I know that people who didn’t live in the US had problems with paying the fee because the instructions for the form I-140 specify: “The check or money order must be drawn on a bank or other financial institution located in the United States and must be payable in U.S. currency” (<https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf>). Some traveled to the US themselves or asked their friends traveling to the US to buy money orders there. Others had a family member living in the US who provided their bank check.
 
 The instructions say that “If you live outside the United States, contact the nearest U.S. Embassy or U.S. Consulate for instructions on the method of payment.” People from Russia wrote me that the US Consulate couldn’t provide them with such instructions. Perhaps, the situation is different in other countries and US money orders can be bought there, I just don’t know.
 
 Recently (Apr 2018), the USCIS posted an announcement that “If you file one of the following forms with a USCIS Lockbox facility, you may pay with a credit card using Form G-1450, Authorization for Credit Card Transactions.” and the list includes I-140 and I-485 (but not I-907): <https://www.uscis.gov/forms/forms-processed-uscis-lockbox-facilities>
 
-But I don’t know yet if anyone could pay the fee using the foreign credit card. 
+But I don’t know yet if anyone could pay the fee using the foreign credit card.
+
+If the premium processing is requested, its fee must be paid by a separate check as indicated in the [I-907 instructions](https://www.uscis.gov/sites/default/files/files/form/i-907instr.pdf) in the bottom of the Page 4.
 
 # Is the Form ETA-750B or ETA Form 9089 required?
 
