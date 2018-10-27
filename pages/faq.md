@@ -116,7 +116,7 @@ The status for filing of the employment-based visa applications must be current 
 
 Filing dates may differ from the final action dates. The former determine when one can file the I-485 form, the latter determine when the I-485 form can be approved and the green card can be issued.
 
-I passed my medical examination after getting the approval for I-140 and before filing I-485. I filed the required medical form I-693 (<https://www.uscis.gov/i-693>) together with my I-485 application but the processing times have increased greatly since 2012. And now one may wait for longer than a year to get their I-485 approved. The I-693 form expires in one year, so the person would get an RFE to renew their medical exam. Nowadays, it may be wise not to attach I-693 to I-485 and wait for this RFE.
+I passed my medical examination after getting the approval for I-140 and before filing I-485. I filed the required medical form I-693 (<https://www.uscis.gov/i-693>) together with my I-485 application but the processing times have increased greatly since 2012. And now one may wait for longer than a year to get their I-485 approved. Since Nov. 1, 2018, the I-693 form is valid for two years, but it must be signed by a civil surgeon no more than 60 days before filing the underlying I-485 application.
 
 See also: <https://www.uscis.gov/greencard/adjustment-of-status>.
 
@@ -126,7 +126,7 @@ Use the USCIS website to check current processing times: <https://egov.uscis.gov
 
 Historic Average Time: <https://egov.uscis.gov/processing-times/historic-pt>.
 
-In 2012, I was very lucky to get my I-485 processed and the green card issued in just 2 months after filing the form. My I-140 had been approved even faster in about one week because I requested the premium processing (Form I-907, $1,225 fee; can be filed with EB1-A petitions, but not with EB2-NIW petitions).
+In 2012, I was very lucky to get my I-485 processed and the green card issued in just 2 months after filing the form. My I-140 had been approved even faster in about one week because I requested the premium processing (Form I-907, $1,410 fee; can be filed with EB1-A petitions, but not with EB2-NIW petitions).
 
 The processing times have increased significantly since then, and in 2018, people have reported to me that they waited for more than a year to get the decision on the I-140 petition filed without premium processing or for the I-485 application. It was impossible for me to find any logic in the processing times. Often two persons submitted the I-140 forms under the same category almost simultaneously and one person got I-140 approved in 2 months, while another person had to wait for 9 months. And as in the case of financial markets, “the past performance doesn’t guarantee the future results”, so be prepared to wait for as long as necessary.
 
@@ -230,7 +230,7 @@ I read stories that some person created a company in the US while on B1/B2 visa 
 
 You can submit the Form I-907, Request for Premium Processing Service, with the I-140 Petition under the EB-1A category, but not under the EB2-NIW category: <https://www.uscis.gov/forms/how-do-i-use-premium-processing-service>.
 
-First, make sure that you are filling [the most recent form](https://www.uscis.gov/system/files_force/files/form/i-907.pdf). An expiration date can be found in the top right corner on the first page. I filled my form in 2012, it was similar but not the same. The fee hasn't changed since that time and is still $1,225, but it may increase in the future.
+First, make sure that you are filling [the most recent form](https://www.uscis.gov/system/files_force/files/form/i-907.pdf). An expiration date can be found in the top right corner on the first page. I filled my form in 2012, it was similar but not the same. The fee has increased since that time and since Oct. 2018 is $1,410 (and it may increase again in the future).
 
 Second, most of fields in the form are obvious. In Part 1, item 8, I checked the box "I am the **petitioner** who is filing or has filed a petition eligible for Premium Processing Service", because I did everything without a lawyer. There is a subtle difference between the petitioner and the applicant (you can petition for someone else, but apply only for yourself). Since the I-140 form is called 'Petition', I chose "the petitioner".
 
