@@ -138,7 +138,7 @@ I’m not a lawyer and by law I am not allowed to provide advice on the specific
 
 Generally, I consider that a scientist with a PhD degree and more than 50 citations working in the US has very good chances for the EB2-NIW approval. The EB1-A category requires the “third criterion”: several reviews of manuscripts for journals, major awards, or publications about the person’s achievements in the major professional media.
 
-The chances of people who don’t work in the US or don’t have PhD are much lower. I know cases when graduate students in the US universities got their I-140 petitions approved, but it’s better to get the PhD before filing the petition. The USCIS consider only achievement that existed on the priority date (= the day when the petition has been received by the USCIS).
+The chances of people who don’t work in the US or don’t have PhD are much lower. I know cases when graduate students in the US universities got their I-140 petitions approved, but it’s better to get the PhD before filing the petition. The USCIS considers only achievements that existed on the priority date (= the day when the petition has been received by the USCIS).
 
 I’m not competent to estimate the chances of non-scientists. I know almost nothing about designers, businesspersons, athletes and about the criteria they can claim. Besides the fact, that the person who is going to work as a sport coach in the US must provide evidence of extraordinary abilities in coaching rather than the achievements as an athlete.
 
