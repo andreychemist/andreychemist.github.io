@@ -12,7 +12,7 @@ permalink: story/
 
 My name is Andrey Solovyev. I studied chemistry in St. Petersburg State University, Russia in 2002-2007 and I got my PhD degree in Chemistry from the University of Pittsburgh (2007-2012). Then I worked as a postdoctoral fellow at the Lawrence Berkeley National Laboratory in the F-1 OPT immigration status (practical training after getting a degree from a US university).
 
-In summer 2012, I submitted the I-140 petition under the EB1-A category as a person with extraordinary abilities in Organometallic Chemistry. I prepared it myself without help of a lawyer and it took about a month to write the text and collect all supporting documents. I requested the premium processing (form I-907) and my petition was approved in one week. Then I submitted form I-485 to adjust my status of non-immigrant F-1 OPT to legal permanent resident. I received my green card (I-551) in Nov. 2012. I became the naturalized US citizen in Feb 2018: 5 years and 3 months after getting the green card.
+In summer 2012, I filed the I-140 petition under the EB1-A category as a person with extraordinary abilities in Organometallic Chemistry. I prepared it myself without help of a lawyer and it took about a month to write the text and collect all supporting documents. I requested the premium processing (Form I-907) and my petition was approved in one week. Then I filed Form I-485 to adjust my status of non-immigrant F-1 OPT to legal permanent resident. I received my green card (I-551) in Nov. 2012. I became the naturalized US citizen in Feb 2018: 5 years and 3 months after getting the green card.
 
 My brother got his green card under the same EB-1A category in Jun 2015. He has PhD in Mathematics and worked as a postdoc in Computer Sciences at the University of Utah at that time. Now we work together as independent software developers of educational mobile applications ([iOS](https://itunes.apple.com/us/developer/andrey-solovyev/id655223913); [Android](https://play.google.com/store/apps/developer?id=Andrey+Solovyev)).
 
@@ -23,9 +23,9 @@ I concluded that if there are no special circumstances, a successful scientist w
 ## My Immigration Timeline:
 - Summer 2012 - I work in the LBNL as a postdoctoral fellow in the F-1 OPT status (valid until Dec. 2012).
 - 24 Jul 2012 - asked professors for recommendation letters.
-- 20 Aug 2012 - submitted the I-140 petition under EB-1A classification requesting premium processing (form I-907).
+- 20 Aug 2012 - filed the I-140 petition under EB-1A classification requesting premium processing (Form I-907).
 - 28 Aug 2012 - received the notice about approval of I-140 petition.
-- 12 Sep 2012 - submitted the I-485 adjustment of status application with the medical exam form (I-693) and the request of the EAD card (I-765).
+- 12 Sep 2012 - filed the I-485 adjustment of status application with the medical exam Form I-693 and the request of the EAD card (Form I-765).
 - 10 Oct 2012 - received the EAD card.
 - 24 Oct 2012 - biometrics appointment in the USCIS office.
 - 14 Nov 2012 - received my green card.

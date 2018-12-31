@@ -18,7 +18,7 @@ The USCIS websites for Forms:
 - <https://www.uscis.gov/i-907> (request for premium processing service)
 - <https://www.uscis.gov/i-485> (application to adjust status)
 
-[USCIS tips for filling and filing the form I-140](https://www.uscis.gov/forms/petition-filing-and-processing-procedures-form-i-140-immigrant-petition-alien-worker).
+[USCIS tips for filling and filing Form I-140](https://www.uscis.gov/forms/petition-filing-and-processing-procedures-form-i-140-immigrant-petition-alien-worker).
 
 [USCIS instructions for EB1](https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1).
 
@@ -40,10 +40,10 @@ The Immigration and Nationality Act, [Section 203(b) [8 U.S.C. 1153] - Allocatio
 
 # What is the difference between EB-1A and EB2-NIW?
 
-EB-1A (extraordinary ability) and EB2-NIW (advanced degree or exceptional ability with the national interest waiver) are two categories under which the alien can be self-petitioner, i.e. can submit the I-140 form without an employer.
+EB-1A (extraordinary ability) and EB2-NIW (advanced degree or exceptional ability with the national interest waiver) are two categories that allow the alien to be a self-petitioner, i.e. to file Form I-140 without an employer.
 
 EB-1A requires you to provide: 
-1. evidence of at least three criteria out of 10 listed in the official instructions for the Form I-140 (<https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf>, page 3); 
+1. evidence of at least three criteria out of 10 listed in the official instructions for Form I-140 (<https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf>, page 3); 
 2. evidence that the alien is coming to the United States to continue work in the area of expertise;
 3. evidence of sustained national or international acclaim;
 4. be one of that small percentage who has risen to the very top of the field of endeavor.
@@ -60,7 +60,7 @@ EB2-NIW is considered to be an easier category. I personally don’t know cases 
 I claimed 4 criteria on my petition, though I don’t know if all of them were approved. If the I-140 petition is approved, the USCIS doesn’t provide the detailed explanation of their decision for each criteria. Such an explanation is usually presented in the Request for Evidence (RFE) that is sent when the USCIS officer doesn’t like something in the I-140 petition. [The template for writing the RFE](https://www.uscis.gov/sites/default/files/USCIS/Outreach/Draft%20Request%20for%20Evidence%20%28RFE%29%20Template%20for%20Comment/E11_RFE_Template_1-10-11.pdf) can be found on the USCIS website.
 It is a very useful document to understand what officers are looking for.
 
-My opinion is that it’s a bad idea to claim the criterion for which you don’t have solid evidence. For example, several criteria are created for specific occupations, and a scientist should not claim the criteria (vii) (artistic exhibitions) and (x) (commercial success in performing arts) that are exclusively for persons with extraordinary abilities in arts.
+My opinion is that it is a bad idea to claim the criterion for which you do not have solid evidence. For example, several criteria are created for specific occupations, and a scientist should not claim the criteria (vii) (artistic exhibitions) and (x) (commercial success in performing arts) that are exclusively for persons with extraordinary abilities in arts.
 
 However, denial of one or more criteria is not the reason to deny the petition if three other criteria are met.
 
@@ -78,17 +78,17 @@ If the third criterion is not easy to find, one should consider filing under the
 
 # What happens if the I-140 petition is denied?
 
-I know several people who got their I-140 petitions denied (or they received the RFE and didn’t reply to it, effectively abandoning their petition). This didn’t affect their nonimmigrant status. They could renew the nonimmigrant visa or submit the new I-140 that would be approved. I even read the stories online about people submitting several I-140 petitions simultaneously under different categories (EB1-A and EB2-NIW), one was denied, another was approved, and they could proceed with getting the green card due to the approved I-140.
+I know several people who got their I-140 petitions denied (or they received the RFE and didn’t reply to it, effectively abandoning their petition). This didn’t affect their nonimmigrant status. They could renew the nonimmigrant visa or file the new I-140 that would be approved. I even read the stories online about people filing several I-140 petitions simultaneously under different categories (EB1-A and EB2-NIW), one was denied, another was approved, and they could proceed with getting the green card due to the approved I-140.
 
-This is a major difference between submitting I-140 alone and submitting I-140 concurrently with I-485. In the second case, the filing of I-485 constitutes the immigration intent and the denial of I-140 may result in the loss of the legal status in the US and it will be very difficult to obtain a new nonimmigrant visa in the future. That’s why I did everything stepwise: 1) got I-140 approved; 2) submitted I-485 only after approved I-140.
+This is a major difference between filing I-140 alone and filing I-140 concurrently with I-485. In the second case, the filing of I-485 constitutes the immigration intent and the denial of I-140 may result in the loss of the legal status in the US and it will be very difficult to obtain a new nonimmigrant visa in the future. That’s why I did everything stepwise: 1) got I-140 approved; 2) filed I-485 only after approved I-140.
 
-# Can the form I-140 be submitted for a person who doesn’t live in the United States?
+# Can Form I-140 be filed by a person who does not live in the United States?
 
-As I understand the law and the USCIS’s instructions, any person from any country can file the I-140 petition under either EB-1A or EB2-NIW categories. I even know a few people who submitted their I-140 from Russia and got the approval. However, my brother and I submitted this form when we already worked in the US as postdocs in the F-1 OPT status. And I believe that it greatly increased the chances of approval.
+As far as I understand the laws and the USCIS instructions, any person from any country can file an I-140 petition under the EB-1A or EB2-NIW category. I even know a few people who filed their I-140 from Russia and received the approval. However, my brother and I filed this form when we already worked in the US as postdocs in the F-1 OPT status. I believe that this fact greatly increased the chances of success.
 
 The EB1-A category has a clear requirement of “D. Evidence that the alien is coming to the United States to continue work in the area of expertise. Such evidence may include letters from prospective employers, evidence of prearranged commitments such as contracts, or a statement from the alien detailing plans on how he or she intends to continue work in the United States.” (<https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf>).
 
-Leaving the Part 6 of the Form I-140 (about the proposed employment) blank is not a good idea. The USCIS may not believe in self-employed scientists (I’m less sure about artists or businessmen). Though the law doesn’t require the job offer for the EB-1A category, the person should ideally find the job in the US on nonimmigrant visa (F-1 OPT, J-1, H1-B, O-1, etc.) or at least have a job offer letter from a prospective US employer. 
+Leaving the Part 6 of Form I-140 (about the proposed employment) blank is not a good idea. The USCIS may not believe in self-employed scientists (I’m less sure about artists or businessmen). Though the law doesn’t require the job offer for the EB-1A category, the person should ideally find the job in the US on nonimmigrant visa (F-1 OPT, J-1, H1-B, O-1, etc.) or at least have a job offer letter from a prospective US employer. 
 
 For a person with a foreign PhD, a frequent and reasonable option is to move to the US to work as a postdoc as their first job. After all, everyone should have a good plan how to earn money in the US before trying to get the green card.
 
@@ -100,27 +100,30 @@ The process of getting the green card after the approval of I-140 is also very d
 
 [The official statistics for the fiscal year 2016](https://www.dhs.gov/sites/default/files/publications/2016%20Yearbook%20of%20Immigration%20Statistics.pdf) (Table 7, p. 21) shows that for EB-1A category only 761 (14%) are new arrivals in the US and 4,769 persons (86%) were already in the US. For EB2, 877 (4%) are new arrivals and 18,702 (96%) were in the US.
 
-# Can the form I-485 be submitted together with the form I-140?
+# Can Form I-485 be filed together with Form I-140?
 
-The instructions allow concurrent filing of the form I-485 (adjustment of the status) with the petition I-140. I didn’t do so myself but I know people who did. Their reasoning was that filing I-485 allows request the employment authorization document (EAD) (Form I-765) and the advance parole (Form I-131) for traveling abroad while waiting for the green card. If the form I-485 has been filed, the person can remain in the US legally until the decision is made, even if the previous nonimmigrant status is expired. This is not the case if only the I-140 form is filed (no EAD, no advance parole, the alien must maintain the legal status in the US).
+The instructions allow concurrent filing of Form I-485 (adjustment of the status) with the petition I-140. I didn’t do so myself but I know people who did. Their reasoning was that filing I-485 allows request the employment authorization document (EAD) (Form I-765) and the advance parole (Form I-131) for traveling abroad while waiting for the green card. If Form I-485 has been filed, the person can remain in the US legally until the decision is made, even if the previous nonimmigrant status is expired. This is not the case if only Form I-140 is filed (no EAD, no advance parole, the alien must maintain the legal status in the US).
 
-When I filed my I-140 form, I was in the F-1 OPT status after getting the PhD from the US university and I had a separate EAD card due to this status. I filed the I-140 with premium processing so I knew that I would receive the USCIS decision on my I-140 in about two weeks. It was not necessary for me to submit the I-485 concurrently with my I-140. It would affect my status and if my I-140 was denied, I was at risk to immediately become out of status in the US.
+When I filed my Form I-140, I was in the F-1 OPT status after getting the PhD from the US university and I had a separate EAD card due to this status. I filed the I-140 with premium processing so I knew that I would receive the USCIS decision on my I-140 in about two weeks. It was not necessary for me to file the I-485 concurrently with my I-140. It would affect my status and if my I-140 was denied, I was at risk to immediately become out of status in the US. I consider it especially risky to file Form I-485 being in the US in the B1/B2 tourist visa status.
 
-I consider it especially risky to file the I-485 form being in the US in the B1/B2 tourist visa status.
+Remember that you can file Form I-485 concurrently with Form I-140 only if the status for this specific immigration category is current ("C") in the Visa Bulletin published by the Department of State: <https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html>.
 
-# When can form I-485 be filed?
 
-I have already explained why I consider it a good idea to file the I-485 application to adjust the status only after the I-140 form is approved. However, there may be other obstacles for filing I-485. First of all, one should check the Visa Bulletin published by the Department of State: <https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html>.
+# When can Form I-485 be filed?
 
-The status for filing of the employment-based visa applications must be current “C” for your specific category. The EB1-A category (1st priority) is usually always current, and the EB2-NIW (2nd priority) has been non-current for all countries several times during the past several years. The bulletin also discriminates against the people born in such as China and India where too many immigrant have come from. The nationals of those countries have very long waiting times with getting the green card under the EB2 categories and may consider filing the I-140 petition under the EB-1A category.
+I have already explained why I consider it a good idea to file the I-485 application to adjust the status only after Form I-140 is approved. However, there may be other obstacles for filing I-485. First of all, one should check the Visa Bulletin published by the Department of State: <https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html>, Table "B. Dates for filing of employment-based visa applications".
 
-Filing dates may differ from the final action dates. The former determine when one can file the I-485 form, the latter determine when the I-485 form can be approved and the green card can be issued.
+The filing of Form I-140 establishes the priority date of your case. Form I-485 can be filed for this I-140 only if its priority date is the earlier than the date in the corresponding table cell. Its value depends on the category (EB-1A is "1st" and EB2-NIW is "2nd") and the country where you was born.
 
-I passed my medical examination after getting the approval for I-140 and before filing I-485. I filed the required medical form I-693 (<https://www.uscis.gov/i-693>) together with my I-485 application but the processing times have increased greatly since 2012. And now one may wait for longer than a year to get their I-485 approved. Since Nov. 1, 2018, the I-693 form is valid for two years, but it must be signed by a civil surgeon no more than 60 days before filing the underlying I-485 application.
+The EB1-A category (1st priority) was usually current ("C"), but it's non-current for all countries since Aug 2018 (as of Jan. 2019), and the EB2-NIW (2nd priority) used to be non-current for all countries several times during the past several years. The bulletin also discriminates against the people born in such as China and India where too many immigrants have come from. The nationals of those countries have very long waiting times with getting the green card under the EB2 categories and may consider filing the I-140 petition under the EB-1A category.
+
+Filing dates may differ from the final action dates. The former determine when one can file Form I-485, the latter determine when Form I-485 can be approved and the green card can be issued. These are two different tables in the Visa Bulletin.
+
+I passed my medical examination after getting the approval for I-140 and before filing I-485. I filed the required medical Form I-693 (<https://www.uscis.gov/i-693>) together with my I-485 application but the processing times have increased greatly since 2012. And now one may wait for longer than a year to get their I-485 approved. Since Nov. 1, 2018, Form I-693 is valid for two years, but it must be signed by a civil surgeon no more than 60 days before filing the underlying I-485 application.
 
 See also: <https://www.uscis.gov/greencard/adjustment-of-status>.
 
-# What are the processing times for the forms I-140 and I-485?
+# What are the processing times for Form I-140 and Form I-485?
 
 Use the USCIS website to check current processing times: <https://egov.uscis.gov/processing-times/>.
 
@@ -128,7 +131,7 @@ Historic Average Time: <https://egov.uscis.gov/processing-times/historic-pt>.
 
 In 2012, I was very lucky to get my I-485 processed and the green card issued in just 2 months after filing the form. My I-140 had been approved even faster in about one week because I requested the premium processing (Form I-907, $1,410 fee; can be filed with EB1-A petitions, but not with EB2-NIW petitions).
 
-The processing times have increased significantly since then, and in 2018, people have reported to me that they waited for more than a year to get the decision on the I-140 petition filed without premium processing or for the I-485 application. It was impossible for me to find any logic in the processing times. Often two persons submitted the I-140 forms under the same category almost simultaneously and one person got I-140 approved in 2 months, while another person had to wait for 9 months. And as in the case of financial markets, “the past performance doesn’t guarantee the future results”, so be prepared to wait for as long as necessary.
+The processing times have increased significantly since then, partially due to the introduction of a personal interview. In 2018, people have reported to me that they had waited for more than a year to get the decision on the I-140 petition filed without premium processing or for the I-485 application. It was impossible for me to find any logic in the processing times. Often two persons filed the I-140 forms under the same category almost simultaneously, and one person got I-140 approved in 2 months, while another person had to wait for 9 months. And as in the case of financial markets, “the past performance doesn’t guarantee the future results”, so be prepared to wait for as long as necessary.
 
 After waiting longer than the official USCIS processing times, it may be a good idea to schedule an appointment in the USCIS office to discuss your case (<https://my.uscis.gov/appointment>) and I know that some people even wrote to Congressmen for assistance. But you never can be sure if it accelerates the USCIS decision.
 
@@ -144,7 +147,7 @@ I’m not competent to estimate the chances of non-scientists. I know almost not
 
 # Should one hire a lawyer for preparing the I-140 petition?
 
-I did everything myself without a lawyer, and I know more than 30 other people who did so. But my case was relatively simple: I indeed had major achievements in Chemistry, the PhD degree from a US university and I worked as a postdoc in the US national lab. I never had problems with the legal status in the US and I had no dependents. After studying the hundreds of scientific articles and writing a PhD dissertation, it was not difficult for me to study the 10-pages instructions for the form I-140 and write a 15-pages petition. The longest part was to collect the recommendation letters from professors, but it is the step where a lawyer can provide only a limited help in drafting letters. The burden of contacting and prompting professors is on you.
+I did everything myself without a lawyer, and I know more than 30 other people who did so. But my case was relatively simple: I indeed had major achievements in Chemistry, the PhD degree from a US university and I worked as a postdoc in the US national lab. I never had problems with the legal status in the US and I had no dependents. After studying the hundreds of scientific articles and writing a PhD dissertation, it was not difficult for me to study the 10-pages instructions for Form I-140 and write a 15-pages petition. The longest part was to collect the recommendation letters from professors, but it is the step where a lawyer can provide only a limited help in drafting letters. The burden of contacting and prompting professors is on you.
 
 Most people without a strong background should at least consider contacting a lawyer for free evaluation of their chances. Websites of lawyers who provide this service and their contact information can be easily found online. After all, even if a lawyer is willing to take your case and estimates the chances of success as very high, it’s up yo you to decide whether you want to hire a lawyer or do everything yourself.
 
@@ -160,15 +163,15 @@ Examples of recommendation letters are included as exhibits in the end of petiti
 
 Many professors wrote letters completely themselves and sent me either paper or signed electronic copy. But since these letters are of a legal nature, some professors asked me to provide them with drafts that they could modify and sign if they would agree with everything written there.
 
-I didn't attach the CV's of professors who gave me recommendations. They wrote about their experience, credentials, and honors in the first paragraph of the letter. However, it won't hurt to attach CV's of referees.
+I didn't attach the CVs of professors who gave me recommendations. They wrote about their experience, credentials, and honors in the first paragraph of the letter. However, it won't hurt to attach CVs of referees.
 
 Don't forget to thank your recommenders when you have received your green card.
 
 # How did you translate your documents?
 
-For I-140, I had only one attachment that was not originally written in English (my undergraduate diploma) but I already had the certified translation that I ordered for the graduate school. Later I translated the birth certificate for the form I-485. There are many online translation services that specialize on the translation of documents for the USCIS and they know all requirement for the certification.
+For I-140, I had only one attachment that was not originally written in English (my undergraduate diploma) but I already had the certified translation that I ordered for the graduate school. Later I translated the birth certificate for Form I-485. There are many online translation services that specialize on the translation of documents for the USCIS and they know all requirement for the certification.
 
-The instructions for the form I-140 state: “If you submit a document with information in a foreign language, you must also submit a full English translation. The translator must sign a certification that the English language translation is complete and accurate, and that he or she is competent to translate from the foreign language into English.” (<https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf>)
+The instructions for Form I-140 state: “If you submit a document with information in a foreign language, you must also submit a full English translation. The translator must sign a certification that the English language translation is complete and accurate, and that he or she is competent to translate from the foreign language into English.” (<https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf>)
 
 The professional translator should know how to certify the translation. My translations had a separate sheet with the certificate of accuracy: “I, XXX being duly sworn depose and state to the best of my knowledge, ability and belief that the transcript, prepared by a professional translator who is equally proficient in the Russian and English languages, of the original Russian material described as […] is a true and correct transcript and translation of the source content”. Signature of the translator. Sworn before Notary Public.
 
@@ -184,11 +187,11 @@ But I sent all forms with original signatures and, of course, originals of check
 
 # How can the fee be paid?
 
-I paid them with my personal bank checks from the US bank. I know that people who didn’t live in the US had problems with paying the fee because the instructions for the form I-140 specify: “The check or money order must be drawn on a bank or other financial institution located in the United States and must be payable in U.S. currency” (<https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf>). Some traveled to the US themselves or asked their friends traveling to the US to buy money orders there. Others had a family member living in the US who provided their bank check.
+I paid them with my personal bank checks from the US bank. I know that people who didn’t live in the US had problems with paying the fee because the instructions for Form I-140 specify: “The check or money order must be drawn on a bank or other financial institution located in the United States and must be payable in U.S. currency” (<https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf>). Some traveled to the US themselves or asked their friends traveling to the US to buy money orders there. Others had a family member living in the US who provided their bank check.
 
-The instructions say that “If you live outside the United States, contact the nearest U.S. Embassy or U.S. Consulate for instructions on the method of payment.” People from Russia wrote me that the US Consulate couldn’t provide them with such instructions. Perhaps, the situation is different in other countries and US money orders can be bought there, I just don’t know.
+The instructions say that “[i]f you live outside the United States, contact the nearest U.S. Embassy or U.S. Consulate for instructions on the method of payment.” People from Russia wrote me that the US Consulate couldn’t provide them with such instructions. Perhaps, the situation is different in other countries and US money orders can be bought there, I just don’t know.
 
-Recently (Apr 2018), the USCIS posted an announcement that “If you file one of the following forms with a USCIS Lockbox facility, you may pay with a credit card using Form G-1450, Authorization for Credit Card Transactions.” and the list includes I-140 and I-485 (but not I-907): <https://www.uscis.gov/forms/forms-processed-uscis-lockbox-facilities>
+Recently (Apr 2018), the USCIS posted an announcement that “[i]f you file one of the following forms with a USCIS Lockbox facility, you may pay with a credit card using Form G-1450, Authorization for Credit Card Transactions.” and the list includes I-140 and I-485 (but not I-907): <https://www.uscis.gov/forms/forms-processed-uscis-lockbox-facilities>
 
 But I don’t know yet if anyone could pay the fee using the foreign credit card.
 
@@ -196,17 +199,17 @@ If the premium processing is requested, its fee must be paid by a separate check
 
 # Is the Form ETA-750B or ETA Form 9089 required?
 
-Form ETA-750B is briefly mentioned in the instructions for I-140 and in 8 CFR, Section 204.5(k)(4)(ii). It was not clear for me if this form was required for the EB1-A petition. But I read in an online forum that someone filing the EB1-A petition received the RFE asking to provide this form ETA-750B. So I decided to attach it as well.
+Form ETA-750B is briefly mentioned in the instructions for I-140 and in 8 CFR, Section 204.5(k)(4)(ii). It was not clear for me if this form was required for the EB1-A petition. But I read in an online forum that someone filing the EB1-A petition received the RFE asking to provide this Form ETA-750B. So I decided to attach it as well.
 
 But it seems that [the latest edition of ETA-750B](https://www.foreignlaborcert.doleta.gov/pdf/eta750b1.pdf) expired in 2017. I read that the new requirement is to submit the much longer ETA Form 9089. I have no experience with this form and I couldn't find its latest version that had not expired.
 
 # What is the RFE?
 
-The Request for [Additional] Evidence (RFE) is the reply from the USCIS if they don’t like something about the filed form. It may be something trivial (the petitioner forgot to sign the form I-140; the medical form I-693 required for I-485 has expired), but more often a serious critique of the petition’s weak points. 90 days are usually given to reply to the RFE by providing additional evidence and explanation. But all new documents must have been valid on the priority date of the filing of the petition. It’s already impossible to claim a new additional criterion for EB-1A, for example.
+The Request for [Additional] Evidence (RFE) is the reply from the USCIS if they don’t like something about the filed form. It may be something trivial (the petitioner forgot to sign Form I-140; the medical Form I-693 required for I-485 has expired), but more often a serious critique of the petition’s weak points. 90 days are usually given to reply to the RFE by providing additional evidence and explanation. But all new documents must have been valid on the priority date of the filing of the petition. It’s already impossible to claim a new additional criterion for EB-1A, for example.
 
 Neither my brother, nor I received the RFE for our petition. So I don’t have the first-hand experience with them. But other people showed me their RFE. For the EB-1A, they usually follow [the USCIS template](https://www.uscis.gov/sites/default/files/USCIS/Outreach/Draft%20Request%20for%20Evidence%20%28RFE%29%20Template%20for%20Comment/E11_RFE_Template_1-10-11.pdf). The decisions on the employment-based petitions are highly subjective. The USCIS officer has a lot of discretion about each criteria and requirement. Sometimes, I was surprised that the people who in my opinion had more scientific achievements than I had received the RFE claiming, for example, that 600 citations of the publications is nothing special for a postdoc. The best scientists in the field have thousands of citations.
 
-Some people got an approval after a successful reply to the RFE, some got a denial notice. These are not my stories, so I usually don’t know the details besides the final outcome. There are several options what to do next in case of the denial. The appeal process to the Administrative Appeals Office (AAO) requires either a good lawyer or a strong commitment to studying the immigration law and cases. One may submit a new petition under the different category or under the same category with the new facts and achievements and hope that it will get on the desk of a nicer officer this time.
+Some people got an approval after a successful reply to the RFE, some got a denial notice. These are not my stories, so I usually don’t know the details besides the final outcome. There are several options what to do next in case of the denial. The appeal process to the Administrative Appeals Office (AAO) requires either a good lawyer or a strong commitment to studying the immigration law and cases. One may file a new petition under the different category or under the same category with the new facts and achievements and hope that it will get on the desk of a nicer officer this time.
 
 Reading relevant [decisions by the AAO](https://www.uscis.gov/about-us/directorates-and-program-offices/administrative-appeals-office-aao/aao-non-precedent-decisions) may provide a glimpse of understanding of the USCIS’s decision making. However, I warn you that it’s quite depressive reading, because most of appeals are dismissed. And these decisions are non-precedent. Their usefulness is extremely limited for the future cases.
 
@@ -216,7 +219,7 @@ J-1 nonimmigrant visa (exchange visitors) may require that its recipient spends 
 
 However, working as a postdoc in a US university, even if it's a public university, even if the work is funded by a government grant, usually doesn't lead to the HRR. I have friends who worked as postdocs in a J-1 status and they could get their green cards via EB-1A or EB2-NIW process without removing the HRR because they were not subject to it.
 
-Everyone can request a free [Advisory Opinion from the Department of State](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/advisory-opinions.html) on whether the HRR applies to them. Sometimes, it turns out that even if this requirement is shown on the J-1 visa stamp, it actually does not apply. If it does apply, this J-1 person still can submit an I-140 petition, but can't apply for adjustment of status or change the status to H1-B. It's possible to obtain a [waiver of the HRR](https://travel.state.gov/content/travel/en/us-visas/study/exchange/waiver-of-the-exchange-visitor/eligibility.html) and I know people who got one either through the request of the US Government Agency (Department of Defense) or through an exceptional hardship to a US citizen child of an exchange visitor. I also read about people who spent required 2 years in their home country, prepared and filed I-140 petitions and then returned back to the US as permanent residents.
+Everyone can request a free [Advisory Opinion from the Department of State](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/advisory-opinions.html) on whether the HRR applies to them. Sometimes, it turns out that even if this requirement is shown on the J-1 visa stamp, it actually does not apply. If it does apply, this J-1 person still can file an I-140 petition, but can't apply for adjustment of status or change the status to H1-B. It's possible to obtain a [waiver of the HRR](https://travel.state.gov/content/travel/en/us-visas/study/exchange/waiver-of-the-exchange-visitor/eligibility.html) and I know people who got one either through the request of the US Government Agency (Department of Defense) or through an exceptional hardship to a US citizen child of an exchange visitor. I also read about people who spent required 2 years in their home country, prepared and filed I-140 petitions and then returned back to the US as permanent residents.
 
 # What is the difference between O-1 and EB-1A?
 
@@ -226,13 +229,13 @@ I didn't have O-1 visa myself, I got my green card under the EB-1A category when
 
 I read stories that some person created a company in the US while on B1/B2 visa and then applied for O-1 visa using their own company as an employer. For me, this way looks risky, especially if the company is not a real business and is created just for getting O-1 visa. More importantly, I don't know anyone who got O-1 visa without a lawyer. And if you have a lawyer, you should ask him or her all questions you have about O-1 visa rather then read this FAQ.
 
-# How did you fill the Form I-907?
+# How did you fill  Form I-907?
 
-You can submit the Form I-907, Request for Premium Processing Service, with the I-140 Petition under the EB-1A category, but not under the EB2-NIW category: <https://www.uscis.gov/forms/how-do-i-use-premium-processing-service>.
+You can submit Form I-907, Request for Premium Processing Service, with the I-140 Petition under the EB-1A category, but not under the EB2-NIW category: <https://www.uscis.gov/forms/how-do-i-use-premium-processing-service>.
 
-First, make sure that you are filling [the most recent form](https://www.uscis.gov/system/files_force/files/form/i-907.pdf). An expiration date can be found in the top right corner on the first page. I filled my form in 2012, it was similar but not the same. The fee has increased since that time and since Oct. 2018 is $1,410 (and it may increase again in the future).
+First, make sure that you are filling [the most recent form](https://www.uscis.gov/system/files_force/files/form/i-907.pdf). An expiration date can be found in the top right corner on the first page. I prepared my form in 2012, it was similar but not the same. The fee has increased since that time and since Oct. 2018 is $1,410 (and it may increase again in the future).
 
-Second, most of fields in the form are obvious. In Part 1, item 8, I checked the box "I am the **petitioner** who is filing or has filed a petition eligible for Premium Processing Service", because I did everything without a lawyer. There is a subtle difference between the petitioner and the applicant (you can petition for someone else, but apply only for yourself). Since the I-140 form is called 'Petition', I chose "the petitioner".
+Second, most of fields in the form are obvious. In Part 1, item 8, I checked the box "I am the **petitioner** who is filing or has filed a petition eligible for Premium Processing Service", because I did everything without a lawyer. There is a subtle difference between the petitioner and the applicant (you can petition for someone else, but apply only for yourself). Since Form I-140 is called "Petition", I chose "the petitioner".
 
 Part 2, item 1. I put "I-140". item 2: "N/A" since I filed I-907 together with I-140. item 3: "EB-1A". I filled both item 4 and item 5 with my name, because I was both the petitioner and the beneficiary.
 
@@ -242,12 +245,12 @@ Lastly, I followed the [instructions for I-907](https://www.uscis.gov/system/fil
 
 No. This case is regulated by [8 C.P.R. § 103.2(b)(1), (12)](https://www.ecfr.gov/cgi-bin/text-idx?SID=6d374ff1f838ff282499edfcc34630e5&mc=true&node=se8.1.103_12&rgn=div8). Citing it: "(12) Effect where evidence submitted in response to a request does not establish eligibility at the time of filing. A benefit request shall be denied where evidence submitted in response to a request for evidence does not establish filing eligibility at the time the benefit request was filed. A benefit request shall be denied where any benefit request upon which it was based was filed subsequently."
 
-For me, it's very clear that all evidence that is used to support the case must exist at the moment of the initial filing of the petition. I read the [appeal decisions](https://www.uscis.gov/sites/default/files/err/B2%20-%20Aliens%20with%20Extraordinary%20Ability/Decisions_Issued_in_2015/JAN122015_02B2203.pdf) that stated that any future achievement do not count. The beneficiary must be fully eligible for the benefit when the I-140 petition is submitted. So, if one expects to publish new papers or receive new awards in the nearest future, it might be wise to wait until all evidence for the petition actually exist, rather than to hope to submit it later in response to the RFE.
+For me, it's clear that all evidence that is used to support the case must exist at the moment of the initial filing of the petition. I read the [appeal decisions](https://www.uscis.gov/sites/default/files/err/B2%20-%20Aliens%20with%20Extraordinary%20Ability/Decisions_Issued_in_2015/JAN122015_02B2203.pdf) that stated that any future achievement does not count. The beneficiary must be fully eligible for the benefit when the I-140 petition is filed. So, if one expects to publish new papers or receive new awards in the nearest future, it might be wise to wait until all evidence for the petition actually exists, rather than to hope to submit it later in response to the RFE.
 
 As I also understand, it's possible to claim new criteria under the EB-1A classification after the initial filing of I-140, but all evidence for these newly claimed criteria had to exist on the moment of the initial filing.
 
 # Why did you create this website?
 
-I learned a lot about employment-based immigration and it would be sad if no one would benefit from this knowledge after I received my green card. I shared my story in my Russian-language blog (<https://andresol.livejournal.com/>) and offered to send an example of my petition. During the next 5.5 years, I sent it to almost 250 people and more than 25 people wrote me back that they received the approval of their I-140 petition and that my example encouraged and helped them to write their own petitions. I decided that it’s time to share my story and petition example not only with my friends but with everyone interested in self-petitioning under EB1-A or EB2-NIW categories.
+I learned a lot about employment-based immigration and it would be sad if no one would benefit from this knowledge after I received my green card. I shared my story in my Russian-language blog (<https://andresol.livejournal.com/>) and offered to send an example of my petition. During the next 5.5 years, I sent it to almost 250 people and more than 30 people wrote me back that they received the approval of their I-140 petition and that my example encouraged and helped them to write their own petitions. I decided that it’s time to share my story and petition example not only with my friends but with everyone interested in self-petitioning under EB1-A or EB2-NIW categories.
 
 Writing about immigration laws and procedures is my hobby and volunteering. I’m not going to earn money on selling any documents, providing paid consultations, or third-party advertisements. I am just happy to help fellow scientists and other people and I do believe that the qualified immigrants benefit the country I live in. I still see the lack of information about successful self-petitioning online and I hope that this website will be my contribution in disseminating knowledge.
