@@ -202,6 +202,16 @@ EB2-NIW считается более простой категорией. Я л
 
 Но похоже, что [последняя редакция формы ETA-750B](https://www.foreignlaborcert.doleta.gov/pdf/eta750b1.pdf) истекла в 2017. Я читал, что новое требование - прикладывать форму [ETA Form 9089](https://www.foreignlaborcert.doleta.gov/pdf/9089form.pdf), которая намного длиннее. У меня нет никакого опыта с заполнением и подачей этой формы.
 
+Эта форма упомянута на странице 7 [инструкций к форме I-140](https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf): "If the alien is in a Schedule A, Group I or II shortage
+occupation, you may file a fully completed, uncertified Form ETA-9089 with your Form I-140 for USCIS to determine
+if the alien’s occupation belongs to the shortage occupation."  "Если иностранец относится к Schedule A, Group I или II профессий, по которым не хватает специалистов в США, вы можете послать полностью заполненную, несертифицированную форму ETA-9089 с вашей формой I-140 в USCIS, чтобы определить, относится ли профессия иностранца к тем, по которым не хватает специалистов".
+
+Похожие рекомендации даны на [другом сайте USCIS](https://www.uscis.gov/forms/petition-filing-and-processing-procedures-form-i-140-immigrant-petition-alien-worker#Submiting): "Schedule A, Group I or II shortage occupation (Form I-140, Part 2, option 2.b). Submit a completed and signed ETA Form 9089 that has not been certified by the DOL."
+Вы можете прочитать о Schedule A на сайте DOL (Департамент труда): <https://www.foreignlaborcert.doleta.gov/perm_detail.cfm#schedule>.
+
+У меня личного опыта с этой формой нет, поэтому вы уж сами решайте, как действовать на основании этой информации. Возможно, стоит проконсультироваться с иммиграционным адвокатом отдельно только по поводу этой формы или найти кого-то, кто недавно получил одобрение по I-140 и узнать их опыт с формой 9089.
+
+
 # Что такое RFE?
 
 The Request for [Additional] Evidence (RFE) (запрос дополнительных доказательств) USCIS присылает в том случае, если им что-то не понравилось в поданной форме. Это может быть чисто техническая вещь (заявитель забыл подписать форму I-140; истек срок медицинской формы I-693, поданной вместе с I-485), но чаще всего серьезная критика недостатков петиции. На ответ на RFE и предоставление дополнительных доказательств обычно дается 90 дней. Но все новые документы должны отражать те факты, которые уже были на момент подачи изначальной петиции. Например, нельзя запросить новый критерий по EB-1A, которого изначально не было.

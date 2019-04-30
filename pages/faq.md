@@ -203,6 +203,13 @@ Form ETA-750B is briefly mentioned in the instructions for I-140 and in 8 CFR, S
 
 But it seems that [the latest edition of ETA-750B](https://www.foreignlaborcert.doleta.gov/pdf/eta750b1.pdf) expired in 2017. I read that the new requirement is to submit the much longer [ETA Form 9089](https://www.foreignlaborcert.doleta.gov/pdf/9089form.pdf). I have no experience with this form.
 
+This form is mentioned on the page 7 of the [I-140 instructions](https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf): "If the alien is in a Schedule A, Group I or II shortage
+occupation, you may file a fully completed, uncertified Form ETA-9089 with your Form I-140 for USCIS to determine
+if the alien’s occupation belongs to the shortage occupation."  Similar filing tips are given on the [another USCIS website](https://www.uscis.gov/forms/petition-filing-and-processing-procedures-form-i-140-immigrant-petition-alien-worker#Submiting): "Schedule A, Group I or II shortage occupation (Form I-140, Part 2, option 2.b). Submit a completed and signed ETA Form 9089 that has not been certified by the DOL."
+You can read about Schedule A on the DOL website: <https://www.foreignlaborcert.doleta.gov/perm_detail.cfm#schedule>.
+
+I don't have firsthand experience with this form, so it's up to you to decide how to act based on this information. You may consider consulting with an immigration lawyer about this specific form or finding someone who got the I-140 approval recently and ask about their experience with Form 9089.
+
 # What is the RFE?
 
 The Request for [Additional] Evidence (RFE) is the reply from the USCIS if they don’t like something about the filed form. It may be something trivial (the petitioner forgot to sign Form I-140; the medical Form I-693 required for I-485 has expired), but more often a serious critique of the petition’s weak points. 90 days are usually given to reply to the RFE by providing additional evidence and explanation. But all new documents must have been valid on the priority date of the filing of the petition. It’s already impossible to claim a new additional criterion for EB-1A, for example.
