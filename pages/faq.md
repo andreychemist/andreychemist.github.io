@@ -199,16 +199,9 @@ If the premium processing is requested, its fee must be paid by a separate check
 
 # Is the Form ETA-750B or ETA Form 9089 required?
 
-Form ETA-750B is briefly mentioned in the instructions for I-140 and in 8 CFR, Section 204.5(k)(4)(ii). It was not clear for me if this form was required for the EB1-A petition. But I read in an online forum that someone filing the EB1-A petition received the RFE asking to provide this Form ETA-750B. So I decided to attach it as well.
+[Form ETA-750B](https://foreignlaborcert.doleta.gov/750inst.cfm) is briefly mentioned in the instructions for I-140 and in 8 CFR, Section 204.5(k)(4)(ii). It was not clear for me if this form was required for the EB1-A petition. But I read in an online forum that someone filing the EB1-A petition received the RFE asking to provide this Form ETA-750B. So I decided to attach it as well.
 
-But it seems that [the latest edition of ETA-750B](https://www.foreignlaborcert.doleta.gov/pdf/eta750b1.pdf) expired in 2017. I read that the new requirement is to submit the much longer [ETA Form 9089](https://www.foreignlaborcert.doleta.gov/pdf/9089form.pdf). I have no experience with this form.
-
-This form is mentioned on the page 7 of the [I-140 instructions](https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf): "If the alien is in a Schedule A, Group I or II shortage
-occupation, you may file a fully completed, uncertified Form ETA-9089 with your Form I-140 for USCIS to determine
-if the alien’s occupation belongs to the shortage occupation."  Similar filing tips are given on the [another USCIS website](https://www.uscis.gov/forms/petition-filing-and-processing-procedures-form-i-140-immigrant-petition-alien-worker#Submiting): "Schedule A, Group I or II shortage occupation (Form I-140, Part 2, option 2.b). Submit a completed and signed ETA Form 9089 that has not been certified by the DOL."
-You can read about Schedule A on the DOL website: <https://www.foreignlaborcert.doleta.gov/perm_detail.cfm#schedule>.
-
-I don't have firsthand experience with this form, so it's up to you to decide how to act based on this information. You may consider consulting with an immigration lawyer about this specific form or finding someone who got the I-140 approval recently and ask about their experience with Form 9089.
+In 2017-2019, there was no current version of the Form ETA-750B, and I read that the requirement was to submit the much longer [ETA Form 9089](https://www.foreignlaborcert.doleta.gov/pdf/9089form.pdf). But as of Feb. 2020, Form ETA-750B is back on the Department of Labor website.
 
 # What is the RFE?
 
@@ -240,7 +233,7 @@ I read stories that someone created a company in the US while on B1/B2 visa and 
 
 You can submit Form I-907, Request for Premium Processing Service, with the I-140 Petition under the EB-1A category, but not under the EB2-NIW category: <https://www.uscis.gov/forms/how-do-i-use-premium-processing-service>.
 
-First, make sure that you are filling [the most recent form](https://www.uscis.gov/system/files_force/files/form/i-907.pdf). An expiration date can be found in the top right corner on the first page. I prepared my form in 2012, it was similar but not the same. The fee has increased since that time and since Oct. 2018 is $1,410 (and it may increase again in the future).
+First, make sure that you are filling [the most recent form](https://www.uscis.gov/system/files_force/files/form/i-907.pdf). An expiration date can be found in the top right corner on the first page. I prepared my form in 2012, it was similar but not the same. The fee has increased since that time and since Dec. 2019 is $1,440 (and it may increase again in the future).
 
 Second, most of fields in the form are obvious. In Part 1, item 8, I checked the box "I am the **petitioner** who is filing or has filed a petition eligible for Premium Processing Service", because I did everything without a lawyer. There is a subtle difference between the petitioner and the applicant (you can petition for someone else, but apply only for yourself). Since Form I-140 is called "Petition", I chose "the petitioner".
 
