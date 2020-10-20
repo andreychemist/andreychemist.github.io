@@ -22,7 +22,7 @@ permalink: faq-rus/
 
 [Инструкции USCIS для категории EB1](https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1).
 
-[Темплат для написания RFE](https://www.uscis.gov/sites/default/files/USCIS/Outreach/Draft%20Request%20for%20Evidence%20%28RFE%29%20Template%20for%20Comment/E11_RFE_Template_1-10-11.pdf) (запроса дополнительных доказательств), который подробно объясняет критерии по EB1-A.
+[Темплат для написания RFE](https://www.uscis.gov/sites/default/files/document/outreach-engagements/E11_RFE_Template_1-10-11.pdf) (запроса дополнительных доказательств), который подробно объясняет критерии по EB1-A.
 
 [Инструкции USCIS для категории EB2](https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-second-preference-eb-2).
 
@@ -40,21 +40,21 @@ The Immigration and Nationality Act, [Section 203(b) [8 U.S.C. 1153] - Allocatio
 EB-1A (extraordinary ability) и EB2-NIW (advanced degree or exceptional ability with the national interest waiver) - две категории, по которым можно подавать петицию I-140 самостоятельно, без работодателя.
 
 EB-1A требует предоставить: 
-1. доказательства по минимум 3 критериям из 10, перечисленным в официальных инструкциях к форме I-140 (<https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf>, стр. 3);
+1. доказательства по минимум 3 критериям из 10, перечисленным в официальных инструкциях к форме I-140 (<https://www.uscis.gov/sites/default/files/document/forms/i-140instr.pdf>, стр. 3);
 2. доказательство, что человек в США продолжит работу в области своих экстраординарных способностей;
 3. доказательство национального или международного признания (sustained national or international acclaim);
 4. надо находиться в небольшом проценте самых крутых специалистов в своей области (that small percentage who has risen to the very top of the field).
 См. также <https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1>
 
-EB2-NIW требует, чтобы вы были человеком с выдающимися способностями (определенными на 4-й странице официальных инструкций <https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf>) и соответствовали критериям для выдачи national interest waiver, перечисленным в апелляционном решении the Interim Decision #3882 *Matter of Dhanasar*, 26 I&N Dec. 884 (AAO 2016) (<https://www.justice.gov/eoir/page/file/920996/download>). См. также <https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-second-preference-eb-2>.
+EB2-NIW требует, чтобы вы были человеком с выдающимися способностями (определенными на 4-й странице официальных инструкций <https://www.uscis.gov/sites/default/files/document/forms/i-140instr.pdf>) и соответствовали критериям для выдачи national interest waiver, перечисленным в апелляционном решении the Interim Decision #3882 *Matter of Dhanasar*, 26 I&N Dec. 884 (AAO 2016) (<https://www.justice.gov/eoir/page/file/920996/download>). См. также <https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-second-preference-eb-2>.
 
 Закон о категории EB2 перечисляет два типа работников: профессионалы с advanced degrees (мастерская или докторская степень) и люди с выдающимися способностями. Из текста закона мне было неясно, могут ли люди из первой группы с продвинутыми степенями подавать петицию без работодателя и запрашивать NIW. Но случай, описанный в *Matter of Dhanasar* показывает, что advanced degree достаточно, чтобы подавать петицию самостоятельно и просить NIW по EB2 категории. Под определение advance degree, помимо MS, PhD, подпадает и бакалавр с минимум 5 годами последующей работы по специальности.
 
-EB2-NIW считается более простой категорией. Я лично не знаю случаев, чтобы человеку с PhD, работающему по специальности в США, отказали по EB2-NIW петиции. Однако эта категория не позволяет запросить ускоренное рассмотрение (premium processing - <https://www.uscis.gov/forms/how-do-i-use-premium-processing-service>), и это может оказаться ее существенным недостатком, потому что сроки рассмотрения петиции без ускоренного рассмотрения сложно предсказать. У USCIS на принятие решения могут уйти много месяцы, если не годы.
+EB2-NIW считается более простой категорией. Я лично не знаю случаев, чтобы человеку с PhD, работающему по специальности в США, отказали по EB2-NIW петиции. С 19 октября 2020 года эта категория позволяет запросить ускоренное рассмотрение за 45 рабочих дней (premium processing - <https://www.uscis.gov/forms/how-do-i-use-premium-processing-service>). До 2020 года сроки рассмотрения петиции без ускоренного рассмотрения было сложно предсказать. У USCIS на принятие решения могли уйти многие месяцы, если не годы.  Это было существенным недостатком категории EB2-NIW.
 
 # Для EB-1A, следует ли заявлять максимальное количество критериев?
 
-В своей петиции я заявил 4 критерия, но я не знаю, все ли из них одобрили. Если I-140 петиция сразу одобрена, USCIS не предоставляет подробного объяснения, что они решили по каждому критерию. Такие объяснения обычно пишут в запросе дополнительных доказательств (RFE), который посылают, если офицеру что-либо не понравилось в петиции. [Темплат для написания такого RFE](https://www.uscis.gov/sites/default/files/USCIS/Outreach/Draft%20Request%20for%20Evidence%20%28RFE%29%20Template%20for%20Comment/E11_RFE_Template_1-10-11.pdf) может быть найден на сайте USCIS. Это очень полезный документ, так как можно понять, чем руководствуются проверяющие офицеры.
+В своей петиции я заявил 4 критерия, но я не знаю, все ли из них одобрили. Если I-140 петиция сразу одобрена, USCIS не предоставляет подробного объяснения, что они решили по каждому критерию. Такие объяснения обычно пишут в запросе дополнительных доказательств (RFE), который посылают, если офицеру что-либо не понравилось в петиции. [Темплат для написания такого RFE](https://www.uscis.gov/sites/default/files/document/outreach-engagements/E11_RFE_Template_1-10-11.pdf) может быть найден на сайте USCIS. Это очень полезный документ, так как можно понять, чем руководствуются проверяющие офицеры.
 
 На мой взгляд не стоит заявлять критерии, по которым у вас нет существенных доказательств. Например, некоторые критерии созданы под определенные профессии, и ученому не следует заявлять критерий об участии в художественных выставках (vii) или о коммерческом успехе в исполнительском искусстве (x).
 
@@ -82,7 +82,7 @@ EB2-NIW считается более простой категорией. Я л
 
 Насколько я понимаю законы и инструкции USCIS, любой человек из любой страны может подать I-140 петицию по EB-1A или EB2-NIW категории. Я даже знаю несколько человек, которые подали I-140 из России и получили одобрение. Однако мой брат и я подавали эту форму, уже находясь и работая в США постдоками в статусе F-1 OPT. Я верю, что это значительно увеличило шансы на успех.
 
-По категории EB1-A есть четкое требование “D. Evidence that the alien is coming to the United States to continue work in the area of expertise. Such evidence may include letters from prospective employers, evidence of prearranged commitments such as contracts, or a statement from the alien detailing plans on how he or she intends to continue work in the United States.” (<https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf>).
+По категории EB1-A есть четкое требование “D. Evidence that the alien is coming to the United States to continue work in the area of expertise. Such evidence may include letters from prospective employers, evidence of prearranged commitments such as contracts, or a statement from the alien detailing plans on how he or she intends to continue work in the United States.” (<https://www.uscis.gov/sites/default/files/document/forms/i-140instr.pdf>).
 (D. Доказательство, что человек прибывает в США, чтобы продолжить работать по специальности. Таким доказательством могут быть письма от будущих работодателей, заключенные контракты или подробное изложение заявителем своих рабочих планов в США).
 
 Не стоит оставлять Part 6 формы I-140 (о будущей работе) пустой. USCIS может не поверить в самозанятых ученых (я не уверен насчет художников или бизнесменов). И хотя закон не требует предложение о работе по категории EB-1A, в идеале надо найти работу в США по неиммиграционной визе (F-1 OPT, J-1, H1-B, O-1 и т.д.) или хотя бы иметь письмо от американского работодателя, что он готов вас трудоустроить, если у вас будет разрешение на работу.
@@ -126,7 +126,7 @@ EB2-NIW считается более простой категорией. Я л
 У USCIS есть сайт, где можно узнать текущие сроки: <https://egov.uscis.gov/processing-times/>.
 Статистика о сроках по каждой форме за последние 4 года: <https://egov.uscis.gov/processing-times/historic-pt>
 
-В 2012 году мне повезло, что мою I-485 рассмотрели и выдали грин-карту всего за 2 месяца. I-140 мне вообще одобрили за одну неделю, но это потому что я запросил ускоренное рассмотрение (Form I-907, $1410; можно запросить для EB1-A петиций, но не для EB2-NIW).
+В 2012 году мне повезло, что мою I-485 рассмотрели и выдали грин-карту всего за 2 месяца. I-140 мне вообще одобрили за одну неделю, но это потому что я запросил ускоренное рассмотрение (Form I-907; с 19 октября 2020 года пошлина выросла до $2500, но стало возможно запросить его как для EB1-A петиций, так и для EB2-NIW).
 
 С тех пор сроки рассмотрения значительно возросли, что связано в том числе с тем, что ввели личное интервью. И в 2018 году мне писали люди, что они ждали больше года, пока будет рассмотрена их I-140 петиция, поданная без premium processing, или выдана грин-карта по I-485. Я много раз пытался, но так и не смог найти логику в том, насколько быстро или медленно работают центры USCIS. Был случай, что два человека подали в одно и то же время две петиции I-140 по одной и той же категории. Одному ответ пришел через два месяца, а другому - через девять. Тут как с финансовыми рынками: “прошлые результаты не могут гарантировать будущие доходы”. Так что морально приготовьтесь ждать столько, сколько потребуется.
 
@@ -168,7 +168,7 @@ EB2-NIW считается более простой категорией. Я л
 
 К I-140 петиции у меня был приложен всего один документ, который не был изначально на английском (мой диплом из СПбГУ), но у меня уже был его сертифицированный перевод, который я делал для аспирантуры. Потом для I-485 мне понадобилось перевести свидетельство о рождении. Сейчас есть множество онлайн-сервисов, которые специализируются на переводе документов, предоставляемых в USCIS, и знают все требования сертификации переводов. Я не хочу никому здесь рекламу делать.
 
-В инструкциях к I-140 написано: “If you submit a document with information in a foreign language, you must also submit a full English translation. The translator must sign a certification that the English language translation is complete and accurate, and that he or she is competent to translate from the foreign language into English.” (<https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf>)
+В инструкциях к I-140 написано: “If you submit a document with information in a foreign language, you must also submit a full English translation. The translator must sign a certification that the English language translation is complete and accurate, and that he or she is competent to translate from the foreign language into English.” (<https://www.uscis.gov/sites/default/files/document/forms/i-140instr.pdf>)
 “Если вы подаете документы с информацией на иностранном языке, вы обязаны предоставить и полный перевод на английский. Переводчик должен подписать сертификацию о том, что перевод на английский полный и точный и что он или она компетентны в переводе с этого иностранного языка на английский”.
 
 Профессиональный переводчик должен знать, как сертифицировать перевод. У моего перевода был отдельный первый лист - certificate of accuracy: “I, XXX being duly sworn depose and state to the best of my knowledge, ability and belief that the transcript, prepared by a professional translator who is equally proficient in the Russian and English languages, of the original Russian material described as […] is a true and correct transcript and translation of the source content”. Подпись переводчика, заверенная нотариусом.
@@ -177,7 +177,7 @@ EB2-NIW считается более простой категорией. Я л
 
 # Надо посылать копии или оригиналы документов?
 
-Я посылал только копии всех подтверждающих документов. Даже в том случае, когда у меня были оригиналы на руках. Инструкции к I-140 рекомендуют: “You may submit legible photocopies of documents requested, unless the Instructions specifically state that you must submit an original document.” (<https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf>)
+Я посылал только копии всех подтверждающих документов. Даже в том случае, когда у меня были оригиналы на руках. Инструкции к I-140 рекомендуют: “You may submit legible photocopies of documents requested, unless the Instructions specifically state that you must submit an original document.” (<https://www.uscis.gov/sites/default/files/document/forms/i-140instr.pdf>)
 “Вы можете послать читаемые копии необходимых документов, если только инструкции не пишут четко, что вы должны предоставить оригинал”.
 
 Существует вероятность, что USCIS попросит вас переслать документы заново, поэтому важно иметь оригиналы всех посланных документов.
@@ -186,7 +186,7 @@ EB2-NIW считается более простой категорией. Я л
 
 # Как можно оплатить пошлину?
 
-Я оплатил своим персональным чеком, выданным американским банком. Я знаю, что для людей, не живших в США, оплата пошлины становилась проблемой, так как инструкции к форме I-140 требуют: “The check or money order must be drawn on a bank or other financial institution located in the United States and must be payable in U.S. currency” (<https://www.uscis.gov/system/files_force/files/form/i-140instr.pdf>). “Чек или money order банка или другой финансовой организации, расположенной в США, номинированный в долларах США”. Некоторые люди сами ездили в США, чтобы купить такой money order, просили своих друзей или родственников в США заплатить за них пошлину их чеками.
+Я оплатил своим персональным чеком, выданным американским банком. Я знаю, что для людей, не живших в США, оплата пошлины становилась проблемой, так как инструкции к форме I-140 требуют: “The check or money order must be drawn on a bank or other financial institution located in the United States and must be payable in U.S. currency” (<https://www.uscis.gov/sites/default/files/document/forms/i-140instr.pdf>). “Чек или money order банка или другой финансовой организации, расположенной в США, номинированный в долларах США”. Некоторые люди сами ездили в США, чтобы купить такой money order, просили своих друзей или родственников в США заплатить за них пошлину их чеками.
 
 Инструкции еще сообщают, что “If you live outside the United States, contact the nearest U.S. Embassy or U.S. Consulate for instructions on the method of payment.” “Если вы живете за пределами США, обратитесь в ближайшее американское консульство за инструкциями, как оплатить пошлину”. Но люди из России писали мне, что тамошнее консульство США ничего не смогло им подсказать на этот счет. Возможно, в других странах все с этим проще и можно даже купить американские money orders, никуда не ездя. Но вот чего не знаю, того не знаю.
 
@@ -194,7 +194,7 @@ EB2-NIW считается более простой категорией. Я л
 
 Но я пока не знаю никого, кто смог бы оплатить эти пошлины с помощью иностранной кредитки.
 
-Если запрашивается ускоренное рассмотрение (premium processing), то эта дополнительная пошлина должна быть оплачена отдельным чеком, как указано в [инструкциях к форме I-907](https://www.uscis.gov/sites/default/files/files/form/i-907instr.pdf) внизу стр. 4.
+Если запрашивается ускоренное рассмотрение (premium processing), то эта дополнительная пошлина должна быть оплачена отдельным чеком, как указано в [инструкциях к форме I-907](https://www.uscis.gov/sites/default/files/files/form/i-907instr.pdf) вверху страницы 5.
 
 # Нужно ли посылать форму ETA-750B или ETA Form 9089?
 
@@ -207,7 +207,7 @@ EB2-NIW считается более простой категорией. Я л
 
 The Request for [Additional] Evidence (RFE) (запрос дополнительных доказательств) USCIS присылает в том случае, если им что-то не понравилось в поданной форме. Это может быть чисто техническая вещь (заявитель забыл подписать форму I-140; истек срок медицинской формы I-693, поданной вместе с I-485), но чаще всего серьезная критика недостатков петиции. На ответ на RFE и предоставление дополнительных доказательств обычно дается 90 дней. Но все новые документы должны отражать те факты, которые уже были на момент подачи изначальной петиции. Например, нельзя запросить новый критерий по EB-1A, которого изначально не было.
 
-Ни я, ни мой брат не получали RFE по своим петициям. Поэтому все, что я о них знаю, я знаю из третьих рук, от других людей, которые показывали мне свои RFE. По EB-1A они обычно написаны в соответствии с [темплатом USCIS](https://www.uscis.gov/sites/default/files/USCIS/Outreach/Draft%20Request%20for%20Evidence%20%28RFE%29%20Template%20for%20Comment/E11_RFE_Template_1-10-11.pdf). Все решения по рабочим иммиграционным категориям очень субъективные. Соответствие критериям и требованиям отдано на усмотрение офицера USCIS. Были случаи, когда люди, у которых на мой взгляд было больше научных достижений, чем у меня, получали RFE с такими заявлениями, например, что 600 цитирований публикаций - невыдающийся результат для постдока, нужны тысячи.
+Ни я, ни мой брат не получали RFE по своим петициям. Поэтому все, что я о них знаю, я знаю из третьих рук, от других людей, которые показывали мне свои RFE. По EB-1A они обычно написаны в соответствии с [темплатом USCIS](https://www.uscis.gov/sites/default/files/document/outreach-engagements/E11_RFE_Template_1-10-11.pdf). Все решения по рабочим иммиграционным категориям очень субъективные. Соответствие критериям и требованиям отдано на усмотрение офицера USCIS. Были случаи, когда люди, у которых на мой взгляд было больше научных достижений, чем у меня, получали RFE с такими заявлениями, например, что 600 цитирований публикаций - невыдающийся результат для постдока, нужны тысячи.
 
 Некоторые люди смогли успешно ответить на RFE и получить одобрение, другие получили письмо с окончательным отказом. Так как все происходило не со мной, я обычно не знаю никаких подробностей, кроме финального результата. Существует несколько путей, которыми можно пойти после отказа. Подача апелляции в Administrative Appeals Office (AAO) - сложный путь. Тут нужно или нанимать хорошего адвоката, или быть готовым самому закопаться в изучение иммиграционных законов и прецедентов. Можно еще подать петицию по другой категории, или по той же категории, но с новыми фактами и достижениями, и надеяться, что на этот раз она попадет на стол к менее привередливому офицеру.
 
@@ -231,15 +231,15 @@ The Request for [Additional] Evidence (RFE) (запрос дополнитель
 
 # Как ты заполнял форму I-907?
 
-Вы можете подать форму I-907 (запрос на ускоренное рассмотрение) с петицией I-140 по категории EB-1A, но не по категории EB2-NIW <https://www.uscis.gov/forms/how-do-i-use-premium-processing-service>.
+Вы можете подать форму I-907 (запрос на ускоренное рассмотрение) с петицией I-140 по категории EB-1A, а с 19 октября 2020 года и по категории EB2-NIW <https://www.uscis.gov/forms/how-do-i-use-premium-processing-service>.
 
-Во-первых, убедитесь, что заполняете [самую новую версию формы](https://www.uscis.gov/system/files_force/files/form/i-907.pdf). Срок годности формы можно найти в верхнем правом углу на первой странице. Я заполнял свою форму в 2012 году, тогда она была похожей на нынешнюю, но не идентичной. Размер пошлины с тех пор вырос и с декабря 2019 года составляет $1440 (и может вырасти еще в будущем).
+Во-первых, убедитесь, что заполняете [самую новую версию формы](https://www.uscis.gov/sites/default/files/document/forms/i-907.pdf). Срок годности формы можно найти в верхнем правом углу на первой странице. Я заполнял свою форму в 2012 году, тогда она была похожей на нынешнюю, но не идентичной. Размер пошлины с тех пор вырос и с октября 2020 года составляет $2500 (и может вырасти еще в будущем).
 
 Во-вторых, заполнение большинства полей в форме очевидно. В Part 1, item 8, я отметил квадратик "I am the **petitioner** who is filing or has filed a petition eligible for Premium Processing Service", потому что я все делал без адвоката. Есть небольшая разница между petitioner и applicant (петицию можно подать на другого человека, а application только на себя). Так как форма I-140 называется 'Petition', я выбрал пункт "the petitioner".
 
 Part 2, item 1. Я написал "I-140". item 2: "N/A", потому что я подавал I-907 вместе с I-140, а не после. item 3: "EB-1A". Я написал свое имя и в item 4, и в item 5, потому что я был одновременно и petitioner (кто подает), и beneficiary (на кого подают).
 
-Наконец, я следовал [инструкциям к I-907](https://www.uscis.gov/system/files_force/files/form/i-907instr.pdf): "If a question does not apply to you (for example, if you have never been married and the question asks, “Provide the name of your current spouse”), type or print “N/A” unless otherwise directed. If your answer to a question which requires a numeric response is zero or none (for example, “How many children do you have” or “How many times have you departed the United States”), type or print “None” unless otherwise directed."
+Наконец, я следовал [инструкциям к I-907](https://www.uscis.gov/sites/default/files/document/forms/i-907instr.pdf): "If a question does not apply to you (for example, if you have never been married and the question asks, “Provide the name of your current spouse”), type or print “N/A” unless otherwise directed. If your answer to a question which requires a numeric response is zero or none (for example, “How many children do you have” or “How many times have you departed the United States”), type or print “None” unless otherwise directed."
 "Если вопрос к вам не относится (например, если вы никогда не были женаты, а вопрос спрашивает имя супруга, напишите "N/A", если не даны другие инструкции. Если ваш ответ на вопрос требует численного ответа "ноль" (например, "Сколько у вас детей" или "Сколько раз вы покидали США") напишите "None", если не даны другие инструкции".
 
 # Могут ли новые статьи, которые будут опубликованы после подачи петиции, быть поданы в качестве дополнительных доказательств?
