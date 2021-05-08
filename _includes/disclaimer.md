@@ -11,5 +11,3 @@ Please check the correctness and relevance of all information on this website be
 Andrey Solovyev, 1 July 2018.
 
 <andreychemist@gmail.com>
-
-UPDATE 11/30/2020: The form I-944, Declaration of Self-Sufficiency, is required to be submitted together with I-485. I have no experience with this form and I do not have time and qualification to study it and its instructions. I will not update the I-485 cover letter on this website because there is already a disclaimer that you must check the latest instructions for all forms and follow them rather than my website.
