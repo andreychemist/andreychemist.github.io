@@ -53,7 +53,7 @@ EB2-NIW requires you to be a person with exceptional abilities (defined on the p
 
 The law about the EB2 category mentions both aliens who are members of the professions holding advanced degrees and aliens of exceptional ability. It was not clear for me if the first group (advanced degree holders) can self-petition and request the NIW. But the case described in *Matter of Dhanasar* hints that the advanced degree is enough to establish eligibility under EB2 for both self-petitioning and requesting the NIW. Advanced degrees, besides MS, PhD, include a bachelor degree followed by at least 5 years of professional experience.
 
-EB2-NIW is considered to be an easier category. I personally don’t know cases when the EB2-NIW petition was denied for a person with a PhD degree working in the US in the field of expertise. Since October 19, 2020, the EB2-NIW category allows requesting the premium processing to be reviewed in 45 business days (<https://www.uscis.gov/forms/how-do-i-use-premium-processing-service>). Before 2020, the processing time without premium processing was hard to predict, it could take many months if not years before getting the USCIS decision, and it was a serious drawback of the EB2-NIW category.
+EB2-NIW is considered to be an easier category. I personally don’t know cases when the EB2-NIW petition was denied for a person with a PhD degree working in the US in the field of expertise. Since October 19, 2020, the EB2-NIW category allows requesting the premium processing to be reviewed in 45 business days (<https://www.uscis.gov/forms/how-do-i-use-premium-processing-service>). Before 2020, the processing time without premium processing was hard to predict, it could take many months if not years before getting the USCIS decision, and it was a serious drawback of the EB2-NIW category. (August 2021 update: Despite the law about premium processing for the NIW category, USCIS hasn't implemented this option yet. Please check if it's available with the USCIS.)
 
 # For EB-1A, should one claim as many criteria as possible?
 
@@ -129,7 +129,7 @@ Use the USCIS website to check current processing times: <https://egov.uscis.gov
 
 Historic Average Time: <https://egov.uscis.gov/processing-times/historic-pt>.
 
-In 2012, I was very lucky to get my I-485 processed and the green card issued in just 2 months after filing the form. My I-140 had been approved even faster in about one week because I requested the premium processing (Form I-907, since October 19, 2020, $2,500 fee and can be filed with both EB1-A and EB2-NIW petitions).
+In 2012, I was very lucky to get my I-485 processed and the green card issued in just 2 months after filing the form. My I-140 had been approved even faster in about one week because I requested the premium processing (Form I-907, since October 19, 2020, $2,500 fee and can be filed with both EB1-A and EB2-NIW petitions). (August 2021 update: Despite the law about premium processing for the NIW category, USCIS hasn't implemented this option yet. Please check if it's available with the USCIS.)
 
 The processing times have increased significantly since then, partially due to the introduction of a personal interview. In 2018, people have reported to me that they had waited for more than a year to get the decision on the I-140 petition filed without premium processing or for the I-485 application. It was impossible for me to find any logic in the processing times. Often two persons filed the I-140 forms under the same category almost simultaneously, and one person got I-140 approved in 2 months, while another person had to wait for 9 months. And as in the case of financial markets, “the past performance doesn’t guarantee the future results”, so be prepared to wait for as long as necessary.
 
@@ -231,7 +231,7 @@ I read stories that someone created a company in the US while on B1/B2 visa and 
 
 # How did you fill Form I-907?
 
-You can submit Form I-907, Request for Premium Processing Service, with the I-140 Petition under the EB-1A category, and since October 19, 2020 for the EB2-NIW category: <https://www.uscis.gov/forms/how-do-i-use-premium-processing-service>.
+You can submit Form I-907, Request for Premium Processing Service, with the I-140 Petition under the EB-1A category, and since October 19, 2020 for the EB2-NIW category: <https://www.uscis.gov/forms/how-do-i-use-premium-processing-service>. (August 2021 update: Despite the law about premium processing for the NIW category, USCIS hasn't implemented this option yet. Please check if it's available with the USCIS.)
 
 First, make sure that you are filling [the most recent form](https://www.uscis.gov/sites/default/files/document/forms/i-907.pdf). An expiration date can be found in the top right corner on the first page. I prepared my form in 2012, it was similar but not the same. The fee has increased since that time and since Oct. 2020 is $2,500 (and it may increase again in the future).
 
