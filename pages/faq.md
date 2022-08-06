@@ -119,7 +119,11 @@ The EB1-A category (1st priority) was usually current ("C"), but it's non-curren
 
 Filing dates may differ from the final action dates. The former determine when one can file Form I-485, the latter determine when Form I-485 can be approved and the green card can be issued. These are two different tables in the Visa Bulletin.
 
-I passed my medical examination after getting the approval for I-140 and before filing I-485. I filed the required medical Form I-693 (<https://www.uscis.gov/i-693>) together with my I-485 application, but the processing times have increased greatly since 2012. And now one may wait for longer than a year to get their I-485 approved. Since Nov. 1, 2018, Form I-693 is valid for two years, but it must be signed by a civil surgeon no more than 60 days before filing the underlying I-485 application.
+I passed my medical examination after getting the approval for I-140 and before filing I-485. I found the nearest doctor who can sign the medical form [on the USCIS website](https://my.uscis.gov/findadoctor), made an appointment, took tests, got the missing vaccinations (the list of required vaccinations can be found [on the CDC website](https://www.cdc.gov/immigrantrefugeehealth/panel-physicians/vaccinations.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fimmigrantrefugeehealth%2Fexams%2Fti%2Fpanel%2Fvaccination-panel-technical-instructions.html#tbl1)), then visited the doctor's office one more time to pick up Form I-693 (<https://www.uscis.gov/i-693>). It was signed by the doctor and sealed in a separate envelope. It cost me $400, but the price depends on the doctor, and it would be cheaper if I got the missing vaccinations in advance with my health insurance.
+
+I filed the required medical form together with my I-485 application, but the processing times have increased greatly since 2012. And now one may wait for longer than a year to get their I-485 approved. Since Nov. 1, 2018, Form I-693 is valid for two years, but it must be signed by a civil surgeon no more than 60 days before filing the underlying I-485 application.
+
+With I-485, you also need to send a copy of the birth certificate along with its certified translation. You can google "birth certificate translation for uscis", choose a translation company that you trust, send them a pdf file with the birth certificate, and for $20-25 and in 1 day they should return its translation to you along with a USCIS-compliant translation certification.
 
 See also: <https://www.uscis.gov/greencard/adjustment-of-status>.
 
