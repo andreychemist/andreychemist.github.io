@@ -16,7 +16,7 @@ title: I-140 Examples
 
 A person who successfully used my website to get approval under the EB2-NIW category asked me to upload these additional materials that you may find helpful.
 
-An example of the I-140 petition (EB2-NIW), and filled I-140 and I-907 forms: [Template EB-2 NIW.pdf](assets/Template EB-2 NIW.pdf)
+An example of the I-140 petition (EB2-NIW), and filled I-140 and I-907 forms: [Template EB-2 NIW.pdf](assets/Template_EB-2_NIW.pdf)
 
 The Overleaf project zip (LaTeX template) with the same documents: [Template EB-2 NIW.zip](assets/Template EB-2 NIW.zip)
 
