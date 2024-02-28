@@ -133,7 +133,7 @@ Use the USCIS website to check current processing times: <https://egov.uscis.gov
 
 Historic Average Time: <https://egov.uscis.gov/processing-times/historic-pt>.
 
-In 2012, I was very lucky to get my I-485 processed and the green card issued in just 2 months after filing the form. My I-140 had been approved even faster, in about one week, because I requested the premium processing (Form I-907; the current fee for the premium processing is $2,500 fee). Since January 2023, the premium processing can be requested for both EB1-A and EB2-NIW petitions. Pay more and get a reply (EB-1A - 15 days; EB2-NIW - 45 days).
+In 2012, I was very lucky to get my I-485 processed and the green card issued in just 2 months after filing the form. My I-140 had been approved even faster, in about one week, because I requested the premium processing (Form I-907; the current fee for the premium processing is $2,805 fee). Since January 2023, the premium processing can be requested for both EB1-A and EB2-NIW petitions. Pay more and get a reply (EB-1A - 15 days; EB2-NIW - 45 days).
 
 The processing times have increased significantly since 2012, partially due to the introduction of a personal interview. In 2018, people have reported to me that they had waited for more than a year to get the decision on the I-140 petition filed without premium processing or for the I-485 application. It was impossible for me to find any logic in the processing times. Often two persons filed the I-140 forms under the same category almost simultaneously, and one person got I-140 approved in 2 months, while another person had to wait for 9 months. And as in the case of financial markets, “the past performance doesn’t guarantee the future results”, so be prepared to wait for as long as necessary.
 
@@ -237,7 +237,7 @@ I read stories that someone created a company in the US while on B1/B2 visa and 
 
 You can submit Form I-907, Request for Premium Processing Service, with the I-140 Petition under the EB-1A category. Since January 30, 2023, you can request the premium processing under the EB2-NIW category as well (at last, I have been waiting for this feature for 10 years). Please refer to [the USCIS website](https://www.uscis.gov/forms/all-forms/how-do-i-request-premium-processing) to find which categories are eligible for premium processing.
 
-First, make sure that you are filling [the most recent form](https://www.uscis.gov/sites/default/files/document/forms/i-907.pdf). An expiration date can be found in the top right corner on the first page. I prepared my form in 2012, it was similar but not the same. The fee has increased since that time and since Oct. 2020 is $2,500 (and it may increase again in the future). It must be paid with a separate check.
+First, make sure that you are filling [the most recent form](https://www.uscis.gov/sites/default/files/document/forms/i-907.pdf). An expiration date can be found in the top right corner on the first page. I prepared my form in 2012, it was similar but not the same. The fee has increased since that time and since  2024 is $2,805 (and it may increase again in the future). It must be paid with a separate check.
 
 Second, most of fields in the form are obvious. In Part 1, item 8, I checked the box "I am the **petitioner** who is filing or has filed a petition eligible for Premium Processing Service", because I did everything without a lawyer. There is a subtle difference between the petitioner and the applicant (you can petition for someone else, but apply only for yourself). Since Form I-140 is called "Petition", I chose "the petitioner".
 
@@ -252,6 +252,20 @@ No. This case is regulated by [8 C.P.R. § 103.2(b)(1), (12)](https://www.ecfr.g
 For me, it's clear that all evidence that is used to support the case must exist at the moment of the initial filing of the petition. I read the [appeal decisions](https://www.uscis.gov/sites/default/files/err/B2%20-%20Aliens%20with%20Extraordinary%20Ability/Decisions_Issued_in_2015/JAN122015_02B2203.pdf) that stated that any future achievement does not count. The beneficiary must be fully eligible for the benefit when the I-140 petition is filed. So, if one expects to publish new papers or receive new awards in the near future, it might be wise to wait until all evidence for the petition actually exists rather than hope to submit it later in response to the RFE.
 
 As I also understand, it's possible to claim new criteria under the EB-1A classification after the initial filing of I-140, but all evidence for these newly claimed criteria had to exist on the moment of the initial filing.
+
+# To what address and in what form did you send your petition?
+
+I printed out all the documents and attachments and arranged them in the order indicated on the first page of the petition example (Table of Contents): as requested by USCIS, I attached the bank checks for fee payment at the very top of my submission. I sent this stack of papers via UPS courier service. On the USCIS website you can find [addresses where to send the petition](https://www.uscis.gov/forms/all-forms/direct-filing-addresses-for-form-i-140-immigrant-petition-for-alien-worker) (the specific address depends on which forms are being sent, which postal service is used, and in which state you intend to work), and [tips on organizing the petition](https://www.uscis.gov/forms/filing-guidance/form-filing-tips).
+
+I did not number the pages in the exhibits or did not add headers to them. For each exhibit, a cover page with its number and title was printed. If the exhibit consisted of multiple related pages (for example, a recommendation letter spanning several pages), I fastened them with simple paper clips. I did not punch holes for binders. At the bottom, I added 4-5 small tab sheets indicating the exhibits (1st, 10th and so on, not for all 30), but I do not know if they helped the reviewing officer. Perhaps they can be omitted.  The most important thing is for the officer to quickly find evidence for each criterion listed in the law, and I have never heard of rejections due to formatting (rejections often occur due to lack of the certification of the translation ).
+
+The list of exhibits included references to the sections of the petition that referred to the specific exhibit. I had exhibits consisting of a single page as well as multiple pages. But they should be printed on one side so that it is easier for the USCIS to scan.
+
+In the only case when I attached a translation, the order of the papers was as follows: translation certification, translation into English, original document in Russian. The certification was at the top, because this is how a professional translator returned the translation to me.
+
+# Should the petition be written in the first person ("I") or the third person ("Dr. Doe")?
+
+It doesn't matter, they won't reject it because of that. Both ways are acceptable. You are both the petitioner (the one who files) and the beneficiary (the one who is being filed for). I wrote about myself in the third person as "Dr. Solovyev" because I followed the example I had.
 
 # Why did you create this website?
 
