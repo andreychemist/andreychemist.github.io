@@ -190,22 +190,19 @@ EB2-NIW считается более простой категорией. Я л
 
 # Как можно оплатить пошлину?
 
-Я оплатил своим персональным чеком, выданным американским банком. Я знаю, что для людей, не живших в США, оплата пошлины становилась проблемой, так как инструкции к форме I-140 требуют: “The check or money order must be drawn on a bank or other financial institution located in the United States and must be payable in U.S. currency” (<https://www.uscis.gov/sites/default/files/document/forms/i-140instr.pdf>). “Чек или money order банка или другой финансовой организации, расположенной в США, номинированный в долларах США”. Некоторые люди сами ездили в США, чтобы купить такой money order, просили своих друзей или родственников в США заплатить за них пошлину их чеками.
+Я жил в США, поэтому оплатил пошлины своим персональным чеком, выданным американским банком. Я знаю, что для людей, не живших в США, оплата пошлины становилась проблемой, так как инструкции к форме I-140 требуют: “The check or money order must be drawn on a bank or other financial institution located in the United States and must be payable in U.S. currency” (<https://www.uscis.gov/sites/default/files/document/forms/i-140instr.pdf>). “Чек или money order банка или другой финансовой организации, расположенной в США, номинированный в долларах США”. Некоторые люди сами ездили в США, чтобы купить такой money order, просили своих друзей или родственников в США заплатить за них пошлину.
 
-Инструкции еще сообщают, что “If you live outside the United States, contact the nearest U.S. Embassy or U.S. Consulate for instructions on the method of payment.” “Если вы живете за пределами США, обратитесь в ближайшее американское консульство за инструкциями, как оплатить пошлину”. Но люди из России писали мне, что тамошнее консульство США ничего не смогло им подсказать на этот счет. Возможно, в других странах все с этим проще и можно даже купить американские money orders, никуда не ездя. Но вот чего не знаю, того не знаю.
+Инструкции еще сообщают, что “If you live outside the United States, contact the nearest U.S. Embassy or U.S. Consulate for instructions on the method of payment.” “Если вы живете за пределами США, обратитесь в ближайшее американское консульство за инструкциями, как оплатить пошлину”. Никогда не слышал, чтобы американское консульство помогло с оплатой пошлин для USCIS, но если очень хочется, то можно и их спросить.
 
-В апреле 2018 года USCIS объявило, что “If you file one of the following forms with a USCIS Lockbox facility, you may pay with a credit card using Form G-1450, Authorization for Credit Card Transactions” “Если вы отправляете одну из перечисленных форм в USCIS Lockbox facility, вы можете заплатить с помощью кредитной карты, используя форму G-1450”. И формы I-140 и I-485 там перечислены (но не I-907): <https://www.uscis.gov/forms/forms-processed-uscis-lockbox-facilities>
+С апреля 2018 года пошлины для [Форм, принимаемых в USCIS Lockbox Facilities](https://www.uscis.gov/forms/forms-processed-uscis-lockbox-facilities) (включают I-140, I-907, I-485) могут быть оплачены с помощью кредитной карты, выпущенной американским банком на форме [G-1450, Authorization for Credit Card Transactions](https://www.uscis.gov/g-1450). Они отдельно пишут, что "We cannot accept a credit card issued by a foreign bank". "Мы не принимаем кредитные карты, выпущенные иностранными банками".
 
-Личного опыта насчёт оплаты пошлины иностранной кредиткой у меня нет. Я читал противоречивую информацию на форумах: некоторые люди писали, что смогли заплатить.
-
-Если запрашивается ускоренное рассмотрение (premium processing), то эта дополнительная пошлина должна быть оплачена отдельным чеком, как указано в [инструкциях к форме I-907](https://www.uscis.gov/sites/default/files/files/form/i-907instr.pdf) вверху страницы 5.
+Если запрашивается ускоренное рассмотрение (premium processing), то эта дополнительная пошлина должна быть оплачена отдельным чеком (или money order, или по G-1450), как указано в [инструкциях к форме I-907](https://www.uscis.gov/sites/default/files/files/form/i-907instr.pdf) вверху страницы 5.
 
 # Нужно ли посылать форму ETA-750B или ETA Form 9089?
 
 [Форма ETA-750B](https://foreignlaborcert.doleta.gov/750inst.cfm) очень кратко упомянута в инструкциях к I-140 и в регуляциях 8 CFR, Section 204.5(k)(4)(ii). Я не смог разобраться, нужна ли она для EB-1A петиции. Но затем я прочитал на форуме в интернете рассказ, как некто подал EB-1A петицию и получил RFE с запросом прислать эту форму ETA-750B. И я решил тоже приложить ее. Хуже не будет. 
 
 В 2017-2019 годах не было текущей версии формы ETA-750B, и я читал, что новым требованием было прикладывать форму [ETA Form 9089](https://www.foreignlaborcert.doleta.gov/pdf/9089form.pdf), которая намного длиннее. Но по состоянию на февраль 2020 года форма ETA-750B снова доступна сайте Департамента Труда (U.S. Department of Labor).
-
 
 # Что такое RFE?
 

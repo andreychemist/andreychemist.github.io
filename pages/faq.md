@@ -189,17 +189,15 @@ There is a small chance that the USCIS will ask you to resubmit your evidence, s
 
 But I sent all forms with original signatures and, of course, originals of checks to pay the fees. I kept the photocopies of sent forms and checks.
 
-# How can the fee be paid?
+# How can fees be paid?
 
-I paid them with my personal bank checks from the US bank. I know that people who didn’t live in the US had problems with paying the fee because the instructions for Form I-140 specify: “The check or money order must be drawn on a bank or other financial institution located in the United States and must be payable in U.S. currency” (<https://www.uscis.gov/sites/default/files/document/forms/i-140instr.pdf>). Some traveled to the US themselves or asked their friends traveling to the US to buy money orders there. Others had a family member living in the US who provided their bank check.
+Since I lived in the US, I paid fees with my personal checks from a US bank. I know that people who didn’t live in the US had problems with paying the fee because the instructions for Form I-140 specify: “The check or money order must be drawn on a bank or other financial institution located in the United States and must be payable in U.S. currency” (<https://www.uscis.gov/sites/default/files/document/forms/i-140instr.pdf>). Some traveled to the US themselves or asked their friends traveling to the US to buy money orders there. Others had family members or good friends in the US who paid for them with their bank checks.
 
-The instructions say that “[i]f you live outside the United States, contact the nearest U.S. Embassy or U.S. Consulate for instructions on the method of payment.” People from Russia wrote me that the US Consulate couldn’t provide them with such instructions. Perhaps, the situation is different in other countries, and US money orders can be bought there, I just don’t know.
+The instructions say that “if you live outside the United States, contact the nearest U.S. Embassy or U.S. Consulate for instructions on the method of payment.” I've never heard that the US Consulate could assist with paying the USCIS fees, but one may always ask them just in case.
 
-In April 2018, the USCIS posted an announcement that “[i]f you file one of the following forms with a USCIS Lockbox facility, you may pay with a credit card using Form G-1450, Authorization for Credit Card Transactions.” and the list includes I-140 and I-485 (but not I-907): <https://www.uscis.gov/forms/forms-processed-uscis-lockbox-facilities>
+Since April 2018, fees for [Forms Processed at USCIS Lockbox Facilities](https://www.uscis.gov/forms/forms-processed-uscis-lockbox-facilities) (they include I-140, I-907, I-485) can be paid with a credit card issued by a US bank by submitting the form [G-1450, Authorization for Credit Card Transactions](https://www.uscis.gov/g-1450). The USCIS "cannot accept a credit card issued by a foreign bank".
 
-I don't have a personal experience with paying fees with a foreign credit card. I only read claims online that people could do it.
-
-If the premium processing is requested, its fee must be paid by a separate check as indicated in the [I-907 instructions](https://www.uscis.gov/sites/default/files/files/form/i-907instr.pdf) in the top of the Page 5.
+If the premium processing is requested, its fee must be paid by a separate check (or money order, or G-1450) as indicated in the [I-907 instructions](https://www.uscis.gov/sites/default/files/files/form/i-907instr.pdf) in the top of the Page 5.
 
 # Is the Form ETA-750B or ETA Form 9089 required?
 
