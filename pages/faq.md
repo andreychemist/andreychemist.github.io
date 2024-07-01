@@ -199,6 +199,20 @@ Since April 2018, fees for [Forms Processed at USCIS Lockbox Facilities](https:/
 
 If the premium processing is requested, its fee must be paid by a separate check (or money order, or G-1450) as indicated in the [I-907 instructions](https://www.uscis.gov/sites/default/files/files/form/i-907instr.pdf) in the top of the Page 5.
 
+# Is the Asylum Program Fee required? And if so, how much?
+
+(Added July 1, 2024)
+
+This new fee was added in May 2024, and I have already been asked twice whether it should be paid if one is filing an I-140 as a self-petitioner, without an employer. I found the following page on the official USCIS website [Frequently Asked Questions on the USCIS Fee Rule](https://www.uscis.gov/forms/filing-fees/frequently-asked-questions-on-the-uscis-fee-rule), where in the section "Employment-Based Forms and Fees", exactly this question is asked.
+
+"Q. Do self-petitioners also pay the Asylum Program Fee, and, if so, do they pay the full amount of $600?
+
+A. An individual self-petitioner would pay the reduced Asylum Program Fee of $300 when filing Form I-140 as an EB-1A noncitizen of extraordinary ability or as an EB-2 with national interest waiver. On Form I-140, such self-petitioners must select Yes in Part 1, Question 6, to indicate that they currently employ a total of 25 or fewer full-time equivalent employees.
+
+When an individual beneficiary of a Form I-129 or Form 1-140 petition is a part or sole owner of the petitioning entity, then the Asylum Program Fee depends on the petitioning entity’s number of employees and nonprofit status, as is the case for any petitioning entity or individual."
+
+My understanding of this answer is that “freelancers” who file an I-140 will need to pay an additional $300 (by a separate check in addition to the basic I-140 fee, which is $715 in July 2024). But it is important not how I understand it, but how USCIS understands it. If, for example, you work at a university with more than 25 employees, but you are self-petitioning (you are both the petitioner and the beneficiary), do you have to pay $600, $300, or even $0, because many universities are non-profit organizations? I would be grateful if someone would get the answer directly from USCIS and forward it to me so I can update this question.
+
 # Is the Form ETA-750B or ETA Form 9089 required?
 
 [Form ETA-750B](https://foreignlaborcert.doleta.gov/750inst.cfm) is briefly mentioned in the instructions for I-140 and in 8 CFR, Section 204.5(k)(4)(ii). It was not clear for me if this form was required for the EB1-A petition. But I read in an online forum that someone filing the EB1-A petition received the RFE asking to provide this Form ETA-750B. So I decided to attach it as well.

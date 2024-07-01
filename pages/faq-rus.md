@@ -198,6 +198,20 @@ EB2-NIW считается более простой категорией. Я л
 
 Если запрашивается ускоренное рассмотрение (premium processing), то эта дополнительная пошлина должна быть оплачена отдельным чеком (или money order, или по G-1450), как указано в [инструкциях к форме I-907](https://www.uscis.gov/sites/default/files/files/form/i-907instr.pdf) вверху страницы 5.
 
+# Нужно ли платить пошлину Asylum Program Fee? И если да, то сколько?
+
+(Добавлено 1 июля, 2024)
+
+Эта новая пошлина была добавлена в мае 2024 года, и меня уже дважды спросили, нужно ли её платить, если подаёшь I-140 сам на себя, без работодателя. Я нашёл на официальном сайте USCIS следующую страницу [Frequently Asked Questions on the USCIS Fee Rule](https://www.uscis.gov/forms/filing-fees/frequently-asked-questions-on-the-uscis-fee-rule), где в разделе "Employment-Based Forms and Fees" этот вопрос прямо задаётся.
+
+"Q. Do self-petitioners also pay the Asylum Program Fee, and, if so, do they pay the full amount of $600?
+
+A. An individual self-petitioner would pay the reduced Asylum Program Fee of $300 when filing Form I-140 as an EB-1A noncitizen of extraordinary ability or as an EB-2 with national interest waiver. On Form I-140, such self-petitioners must select Yes in Part 1, Question 6, to indicate that they currently employ a total of 25 or fewer full-time equivalent employees.
+
+When an individual beneficiary of a Form I-129 or Form 1-140 petition is a part or sole owner of the petitioning entity, then the Asylum Program Fee depends on the petitioning entity’s number of employees and nonprofit status, as is the case for any petitioning entity or individual."
+
+Я понимаю ответ так, что «свободным художникам», кто подаёт I-140 самостоятельно, надо будет заплатить дополнительно $300 (отдельным чеком в дополнение к основной пошлине за I-140, которая в июле 2024 составляет $715). Но важно не как понимаю я, а как понимает USCIS. Если, например, вы работаете в университете, где больше 25 работников, но подаёте сами на себя, надо платить $600, $300, или даже $0, потому что многие университеты имеют статус некоммерческих организаций? Буду благодарен, если кто-то узнает ответ напрямую у USCIS и передаст его мне, чтобы я мог обновить этот вопрос.
+
 # Нужно ли посылать форму ETA-750B или ETA Form 9089?
 
 [Форма ETA-750B](https://foreignlaborcert.doleta.gov/750inst.cfm) очень кратко упомянута в инструкциях к I-140 и в регуляциях 8 CFR, Section 204.5(k)(4)(ii). Я не смог разобраться, нужна ли она для EB-1A петиции. Но затем я прочитал на форуме в интернете рассказ, как некто подал EB-1A петицию и получил RFE с запросом прислать эту форму ETA-750B. И я решил тоже приложить ее. Хуже не будет. 
