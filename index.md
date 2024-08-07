@@ -24,6 +24,10 @@ The Overleaf project zip (LaTeX template) with the same documents: [Template EB-
 
 [Comments regarding package preparation.](https://docs.google.com/document/d/16x77V2iDWA6ruImFNi43K1kiGutSAjKhw_pRoUTXZ0w/edit)
 
+- - - - - - - - - - -
+
+Another example of the EB2-NIW petition approved in 2024 by a postdoc in Biology: [https://hoosidin.blogspot.com/2024/08/eb2-niw-example.html](https://hoosidin.blogspot.com/2024/08/eb2-niw-example.html)
+
 {% include disclaimer.md %}
 
 
