@@ -14,6 +14,14 @@ title: I-140 Examples
 
 - - - - - - - - - - -
 
+Other examples of petitions and filled forms:
+
+EB-1A approved in 2021 for a postdoc in Computer Science with useful links: [https://razvanmarinescu.github.io/green-card-I-140/](https://razvanmarinescu.github.io/green-card-I-140/)
+
+EB2-NIW petition approved in 2024 for a postdoc in Biology: [https://hoosidin.blogspot.com/2024/08/eb2-niw-example.html](https://hoosidin.blogspot.com/2024/08/eb2-niw-example.html)
+
+- - - - - - - - - - -
+
 A person who successfully used my website to get approval under the EB2-NIW category asked me to upload these additional materials that you may find helpful.
 
 An example of the I-140 petition (EB2-NIW), and filled I-140 and I-907 forms: [Template EB-2 NIW.pdf](assets/Template_EB2_NIW.pdf)
@@ -23,10 +31,6 @@ The Overleaf project zip (LaTeX template) with the same documents: [Template EB-
 [A table with links to the drafts of recommendation letters.](https://docs.google.com/spreadsheets/d/1AIHcKnDGS1X5WssO5_lA22SWV-U26-vtQ-hnFQuXwNU/edit#gid=0)
 
 [Comments regarding package preparation.](https://docs.google.com/document/d/16x77V2iDWA6ruImFNi43K1kiGutSAjKhw_pRoUTXZ0w/edit)
-
-- - - - - - - - - - -
-
-Another example of the EB2-NIW petition approved in 2024 for a postdoc in Biology: [https://hoosidin.blogspot.com/2024/08/eb2-niw-example.html](https://hoosidin.blogspot.com/2024/08/eb2-niw-example.html)
 
 - - - - - - - - - - -
 
