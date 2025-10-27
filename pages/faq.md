@@ -191,7 +191,11 @@ But I sent all forms with original signatures and, of course, originals of check
 
 # How can fees be paid?
 
-Since I lived in the US, I paid fees with my personal checks from a US bank. I know that people who didn’t live in the US had problems with paying the fee because the instructions for Form I-140 specify: “The check or money order must be drawn on a bank or other financial institution located in the United States and must be payable in U.S. currency” (<https://www.uscis.gov/sites/default/files/document/forms/i-140instr.pdf>). Some traveled to the US themselves or asked their friends traveling to the US to buy money orders there. Others had family members or good friends in the US who paid for them with their bank checks.
+UPDATE: October 2025: "USCIS will continue to accept paper check and money order payments in addition to credit and debit payments until Oct. 28, 2025. After Oct. 28, USCIS will accept only ACH debit transactions using Form G-1650 or credit card payments using Form G-1450 for forms filed by paper without an exemption." - <https://www.uscis.gov/forms/filing-fees>
+
+As I heard, they accept payments only from the accounts in the US banks or by the cards issued by the US banks.
+
+OLD ANSWER: Since I lived in the US, I paid fees with my personal checks from a US bank. I know that people who didn’t live in the US had problems with paying the fee because the instructions for Form I-140 specify: “The check or money order must be drawn on a bank or other financial institution located in the United States and must be payable in U.S. currency” (<https://www.uscis.gov/sites/default/files/document/forms/i-140instr.pdf>). Some traveled to the US themselves or asked their friends traveling to the US to buy money orders there. Others had family members or good friends in the US who paid for them with their bank checks.
 
 The instructions say that “if you live outside the United States, contact the nearest U.S. Embassy or U.S. Consulate for instructions on the method of payment.” I've never heard that the US Consulate could assist with paying the USCIS fees, but one may always ask them just in case.
 

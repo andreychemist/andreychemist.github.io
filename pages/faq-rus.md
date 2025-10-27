@@ -190,7 +190,11 @@ EB2-NIW считается более простой категорией. Я л
 
 # Как можно оплатить пошлину?
 
-Я жил в США, поэтому оплатил пошлины своим персональным чеком, выданным американским банком. Я знаю, что для людей, не живших в США, оплата пошлины становилась проблемой, так как инструкции к форме I-140 требуют: “The check or money order must be drawn on a bank or other financial institution located in the United States and must be payable in U.S. currency” (<https://www.uscis.gov/sites/default/files/document/forms/i-140instr.pdf>). “Чек или money order банка или другой финансовой организации, расположенной в США, номинированный в долларах США”. Некоторые люди сами ездили в США, чтобы купить такой money order, просили своих друзей или родственников в США заплатить за них пошлину.
+ОБНОВЛЕНИЕ: Октябрь 2025: На официальном сайте USCIS теперь написано, что заплатить пошлину можно только прямым переводом со счёта в американском банке или кредитной карточкой, выпущенной американским банком: 
+
+"USCIS will continue to accept paper check and money order payments in addition to credit and debit payments until Oct. 28, 2025. After Oct. 28, USCIS will accept only ACH debit transactions using Form G-1650 or credit card payments using Form G-1450 for forms filed by paper without an exemption." - <https://www.uscis.gov/forms/filing-fees>
+
+СТАРЫЙ ОТВЕТ: Я жил в США, поэтому оплатил пошлины своим персональным чеком, выданным американским банком. Я знаю, что для людей, не живших в США, оплата пошлины становилась проблемой, так как инструкции к форме I-140 требуют: “The check or money order must be drawn on a bank or other financial institution located in the United States and must be payable in U.S. currency” (<https://www.uscis.gov/sites/default/files/document/forms/i-140instr.pdf>). “Чек или money order банка или другой финансовой организации, расположенной в США, номинированный в долларах США”. Некоторые люди сами ездили в США, чтобы купить такой money order, просили своих друзей или родственников в США заплатить за них пошлину.
 
 Инструкции еще сообщают, что “If you live outside the United States, contact the nearest U.S. Embassy or U.S. Consulate for instructions on the method of payment.” “Если вы живете за пределами США, обратитесь в ближайшее американское консульство за инструкциями, как оплатить пошлину”. Никогда не слышал, чтобы американское консульство помогло с оплатой пошлин для USCIS, но если очень хочется, то можно и их спросить.
 
